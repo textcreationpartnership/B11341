@@ -1,0 +1,2306 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most lamentable and tragicall historie conteyning the outragious and horrible tyrannie which a Spanishe gentlewoman named Violenta executed vpon her louer Didaco, because he espoused another beyng first betrothed vnto her. Newly translated into English meter, by T.A. 1576</title>
+            <title>Novelle. Selections.</title>
+         </titleStmt>
+         <extent>Approx. 89KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11341</idno><idno type="EEBO-CITATION">99844010</idno>
+  <idno type="VID">176406</idno>
+  <idno type="EEBO-PROQUEST">2240924456</idno>
+  <idno type="STC">STC 1356.4</idno>
+  <idno type="STC">ESTC S108351</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99844010e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176406)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 163:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most lamentable and tragicall historie conteyning the outragious and horrible tyrannie which a Spanishe gentlewoman named Violenta executed vpon her louer Didaco, because he espoused another beyng first betrothed vnto her. Newly translated into English meter, by T.A. 1576</title>
+                  <title>Novelle. Selections.</title>
+                  <author>Achelley, Thomas.</author>
+                  <author>Bandello, Matteo, 1485-1561.</author>
+               </titleStmt>
+               <extent>[82] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Iohn Charlewood for Thomas Butter dwelling in Paules Churchyarde neeere to S. Austines gate at the signe of the Shippe,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1576.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A verse translation, by Thomas Achelley, of a selection from: Bandello, Matteo.  Novelle.</note>
+                  <note>Running title reads: The historie of Didaco, and Violenta Didaco, and Violenta.</note>
+                  <note>Signatures: A⁴ B-E F⁶.</note>
+                  <note>First leaf is blank.</note>
+                  <note>Identified as STC 87 on UMI microfilm.</note>
+                  <note>Copy catalogued imperfect: lacks A4.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Italian literature --  Translations into English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176406:1"/>
+            <pb facs="tcp:176406:1"/>
+            <p>
+               <hi>A most lamentable and <hi>Tragicall historie, contey<g ref="char:EOLhyphen"/>ning</hi>
+               </hi> the outragious and horrible <hi>ty<g ref="char:EOLhyphen"/>rannie which a Spanishe gentlewoman</hi> named <hi>Violenta</hi> executed vpon her louer <hi>Didaco,</hi> because he es<g ref="char:EOLhyphen"/>poused another beyng first betrothed vnto her.</p>
+            <p>
+               <hi>Newly translated into English meter, by T. A. 1576.</hi>
+            </p>
+            <p>
+               <hi>¶ Imprinted at London</hi> by Iohn Charlewood for Thomas Butter dwelling in Paules Churchyarde néere to S. Austines gate at the signe of the Shippe. <hi>1576.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176406:2"/>
+            <pb facs="tcp:176406:2"/>
+            <head>¶ To the Right worship<g ref="char:EOLhyphen"/>full <hi>Sir Thomas Gressham <hi>Knight, &amp;c.</hi>
+               </hi> T. A. <hi>wysheth</hi> Nestors yeares with increase of vertue and prosperitie.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>O discourse of the</hi> furious tirannie of the boo<g ref="char:EOLhyphen"/>cherly <hi>Medea,</hi> in dismem<g ref="char:EOLhyphen"/>bring the innocent infante <hi>Absyrtus</hi> her owne naturall brother, and scattering his martyred limmes in the hie waye where her father shoulde passe, were but a loste labour. Or to vnfold the the horrible crueltie of the beastly <hi>Progne,</hi> in murthering her owne chylde <hi>Iphis,</hi> and rosting his fleshe, to present the same ro her husbande <hi>Tereus</hi> in a Banquet, were but vaine taken traueyle, and time alto<g ref="char:EOLhyphen"/>gether mispended, which might other<g ref="char:EOLhyphen"/>wyse haue beene farre better employed. Those are but Ethnicke examples, farre fette, and a wonderfull waye distant from our climate both by Sea and Lande: and committed among such barbarous people,
+<pb facs="tcp:176406:3"/> that had no knowledge of any God nor yet of any sparke of Ciuilitie. Neyther shall wee neede to traueyle so farre for the matter. Let vs but cast our eyes ouer the sea here into Spaine, that lyeth in the hart of Christendome, where God is knowen and honoured, mutiall amitie frequented, and all kinde of good order and ciuilitie obserued, and let vs see what hath there happened. Surely, an example so terrible, thar it would moue any true Christian to teares, yea and make his haire to stand vp<g ref="char:EOLhyphen"/>right, for horror, in thinking of so detesta<g ref="char:EOLhyphen"/>ble a fact: which in fewe wordes was this: <hi>Didaco,</hi> a Spanishe knight, borne, and brought vp in <hi>Valence,</hi> fell in loue with a poore mayden named, <hi>Ʋiolenta,</hi> of paren<g ref="char:EOLhyphen"/>tage very base, but of personage most ex<g ref="char:EOLhyphen"/>cellent. And lingering lōg in frustrate sute (for he sought his purpose by meanes not correspondent to honestie) not beyng a<g ref="char:EOLhyphen"/>ble to suppresse the vehemencie of his af<g ref="char:EOLhyphen"/>fections, he maried her priuilie, and lyued in great blisse the space of a .xij. moneth, hauing recourse in the nyght time to her house. Howbeit in th'end he beganne to loath his former match and acquainting himselfe with another dame of equall cal<g ref="char:EOLhyphen"/>ling</p>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:176406:3"/>
+            <head>❧ The Tragicall Historie of <hi>Didaco, and Ʋiolenta.</hi>
+            </head>
+            <l>
+               <seg rend="decorInit">W</seg>Here <hi>Phoebus</hi> firie foming stéedes,</l>
+            <l>Their restles race doo ende:</l>
+            <l>And leauing our <hi>Horizon,</hi> to</l>
+            <l>Th' <hi>Antipodes</hi> doo wende,</l>
+            <l>Right there dooth lye a famous soyle.</l>
+            <l>Whose farthest boundes of land:</l>
+            <l>Enuirond with the brinishe floods,</l>
+            <l>Of Ocean Sea doo stand.</l>
+            <l>Whose weary warning weltring waues,</l>
+            <l>Against the Cliffes doo rore:</l>
+            <l>And tumble foorth their rowling streames,</l>
+            <l>And surges to the shore.</l>
+            <l>And then deuiding foorth it selfe,</l>
+            <l>In seuerall armes againe:</l>
+            <l>Dooth on his swelling tides, the waight</l>
+            <l>Of fléeting Barke sustayne.</l>
+            <l>Whereby an hougy heape of wealth.</l>
+            <l>And fruites of sundry sortes:</l>
+            <l>By entertraffique from a farre,</l>
+            <l>Are leuied to the Portes.</l>
+            <l>Long entercourse of nations straung.</l>
+            <l>Haue so enrichte the same:</l>
+            <l>That this from all <hi>Europaes</hi> boundes,</l>
+            <l>Hath borne away the fame.</l>
+            <pb facs="tcp:176406:4"/>
+            <l>Our former auncetors haue tearmde,</l>
+            <l>The same <hi>Hesperia</hi> hight:</l>
+            <l>But tract of time presound, the name</l>
+            <l>
+               <hi>Iberia</hi> for to write.</l>
+            <l>Both names by great dexteritie,</l>
+            <l>And iudgement founde, againe</l>
+            <l>
+               <hi>Hispania</hi> the same at last,</l>
+            <l>Was callde, in Englishe Spaine.</l>
+            <l>Spayne therefore slowyng ofte in wealth,</l>
+            <l>In buildinges fine and braue:</l>
+            <l>Of all the nations round about,</l>
+            <l>Deserues the crowne to haue.</l>
+            <l>The pleasaunt planted soyle thereof,</l>
+            <l>In eche respect excels:</l>
+            <l>The pompouse Ilande <hi>Paphos,</hi> where</l>
+            <l>The goddesse <hi>Venus</hi> dwelles.</l>
+            <l>And gorgeous glistering <hi>Guidos</hi> eke,</l>
+            <l>Whereas her throne dooth rest:</l>
+            <l>Or faire <hi>Ephesus</hi> where was kept.</l>
+            <l>A solemne yéerely feast.</l>
+            <l>In chaste <hi>Dianaes</hi> sacred fance,</l>
+            <l>Whose building fine and rare:</l>
+            <l>Of all the monuments in Gréece,</l>
+            <l>The cheefest glory bare.</l>
+            <l>All these I say must stoupe, when as</l>
+            <l>Recorded is the fame:</l>
+            <l>Of woorthy Spayne, and yéelde they must,</l>
+            <l>All honour to the same.</l>
+            <pb facs="tcp:176406:4"/>
+            <l>If Champions stoute were requisite,</l>
+            <l>For Mars his griessely traine:</l>
+            <l>A mighty campe of warlike Impes,</l>
+            <l>Might soone be had in Spayne.</l>
+            <l>In prowes like the Romane knightes,</l>
+            <l>Whose force so fierce in féelde:</l>
+            <l>Constrainde the hunger starued Iewes,</l>
+            <l>Vnto their yoke to yeelde.</l>
+            <l>And raunged foorth so farre in fine,</l>
+            <l>That all the worlde at last:</l>
+            <l>Was subiect to their seruitude,</l>
+            <l>When many a broyle was past.</l>
+            <l>In courage, not inferiour,</l>
+            <l>Vnto the Troiane knightes:</l>
+            <l>Whose valiant hartes and noble force,</l>
+            <l>Was tryde in sundry fyghtes.</l>
+            <l>Against the griessely Grecian crue,</l>
+            <l>Whose engins strong did shake:</l>
+            <l>The Troiane walles so stoutly, that</l>
+            <l>The very grounde did quake.</l>
+            <l>And so in fine (but hauing fyrst</l>
+            <l>Sustayned many a foyle)</l>
+            <l>Did woorke the finall fall thereof,</l>
+            <l>In tearme of ten yeeres toyle.</l>
+            <l>But yf the woorthy Troiane knightes,</l>
+            <l>Had had a Spanishe band,</l>
+            <l>Then surely the stately walles of Troy,</l>
+            <l>Vnto this day should stand.</l>
+            <pb facs="tcp:176406:5"/>
+            <l>And yf that age so practised were.</l>
+            <l>And skild in feates of warre:</l>
+            <l>The raging Macedonian route,</l>
+            <l>Had neuer rom'd so farre.</l>
+            <l>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aine, if Territories braue,</l>
+            <l>Or stately Towers on hye:</l>
+            <l>With woorthy prayse deserue, to be</l>
+            <l>Extolled to the skye.</l>
+            <l>Then Spayne in that respect, is not</l>
+            <l>Inferior to the rest:</l>
+            <l>But for the beautie rare thereof,</l>
+            <l>Coequall to the best.</l>
+            <l>Whose farthest limits with prospectes.</l>
+            <l>Of Cities large and strong:</l>
+            <l>Are fortified about and fenste,</l>
+            <l>With bulwarkes great among.</l>
+            <l>In beautie like the stately forte,</l>
+            <l>Which <hi>Dido</hi> once did frame:</l>
+            <l>When she exiled from her land,</l>
+            <l>To mightie Afrike came.</l>
+            <l>
+               <hi>Valence</hi> among the rest, this day</l>
+            <l>A Citie of passing fame:</l>
+            <l>Through regions farre and neere, in Spayne,</l>
+            <l>Dooth beare a princely name.</l>
+            <l>A fortresse and a rampiar strong,</l>
+            <l>That gardeth all the land:</l>
+            <l>A brasen wall for to repulse,</l>
+            <l>The force of forraine hand.</l>
+            <pb facs="tcp:176406:5"/>
+            <l>Maintayned with a lusty troupe,</l>
+            <l>Or warlike Impes beside:</l>
+            <l>Whose valiaunt actes haue purchaste fame,</l>
+            <l>Through regions farre and wyde.</l>
+            <l>Among the rest not long agoe,</l>
+            <l>There dwelt a woorthy knight:</l>
+            <l>Deriu'd from auncient royall race,</l>
+            <l>His name <hi>Didaco</hi> hight.</l>
+            <l>In chiualrie to <hi>Hector</hi> like,</l>
+            <l>Like <hi>Hercules</hi> in might:</l>
+            <l>In policy <hi>Vlisses</hi> mate,</l>
+            <l>Like <hi>Hannibal</hi> in fight.</l>
+            <l>In martiall prowes ioyning aye,</l>
+            <l>Him selfe to <hi>Mars</hi> assignde:</l>
+            <l>So that for courage stoute, his peere</l>
+            <l>In Spayne was hard to finde.</l>
+            <l>He knewe the skill by stayed arme,</l>
+            <l>The quiuering launce to shake:</l>
+            <l>To tosse the thirling darte a farre,</l>
+            <l>And make the pike to quake.</l>
+            <l>To brandishe braue the blade so bright,</l>
+            <l>At barriers to contend:</l>
+            <l>The glauncing shafte with twanging bowe,</l>
+            <l>From marke to marke to send.</l>
+            <l>At tylt to trye the sturdy strength,</l>
+            <l>Of stately steede in féelde:</l>
+            <l>And eke to crase the shiuering speare,</l>
+            <l>On creste of glistering shielde.</l>
+            <pb facs="tcp:176406:6"/>
+            <l>If euer warlike wight had cause,</l>
+            <l>In warlike feates to vaunt:</l>
+            <l>That knewe by setled strength, his foes</l>
+            <l>In furious fight to daunt.</l>
+            <l>
+               <hi>Didaco</hi> then, <hi>Didaco</hi> he,</l>
+            <l>Might ioy aboue the rest:</l>
+            <l>Whose actes had purchaste him a name,</l>
+            <l>Superior to the best.</l>
+            <l>What great delight did he conceaue,</l>
+            <l>To marche in midst of féelde:</l>
+            <l>Protected with a fatall blade,</l>
+            <l>And eke a glistering shielde.</l>
+            <l>Sometime to trauerse foorth his ground,</l>
+            <l>His foe for to entrappe:</l>
+            <l>And then retyring backe agayne,</l>
+            <l>To shunne the afterclap.</l>
+            <l>And mounting eft the prauncing stéede,</l>
+            <l>To gall with dent of spurre:</l>
+            <l>Whose swiftnesse was a remedie,</l>
+            <l>From daungers to recurre.</l>
+            <l>None better knewe with skill to guide,</l>
+            <l>God Mars his pompous trayne:</l>
+            <l>Or to direct his winges and troupes,</l>
+            <l>In order in the playne.</l>
+            <l>Long practizd had this Iouiall Impe,</l>
+            <l>His gréene and youthfull dayes:</l>
+            <l>To winne the spurres in chiualrie,</l>
+            <l>And martiall actes of prayse.</l>
+            <pb facs="tcp:176406:6"/>
+            <l>Enioying still his libertie,</l>
+            <l>Not knowyng Venus yoke:</l>
+            <l>Vnexpert in the panges of loue,</l>
+            <l>And cursed Cupides stroke.</l>
+            <l>He neuer haunted Venus Court,</l>
+            <l>Ne yet her carped troupe:</l>
+            <l>Such weaklinges he abhord, his mind</l>
+            <l>To no such thing would stoupe,</l>
+            <l>He let that passe to amorous knightes,</l>
+            <l>Whose seruile yeeres were spent:</l>
+            <l>In seruice of dame Venus, whyle</l>
+            <l>Her Courte they did frequent.</l>
+            <l>To leane to Cupids seruile lore,</l>
+            <l>He counted it a payne;</l>
+            <l>The glauncing glées of amorous dames,</l>
+            <l>Such toyes he counted vayne.</l>
+            <l>Such execise vnfit for Mars,</l>
+            <l>Or Mars his warlike band:</l>
+            <l>To bowe to such a shrine, would not</l>
+            <l>With Mars his honor stand.</l>
+            <l>No, no, God Mars his votaries,</l>
+            <l>Delight in Trumpets sound,</l>
+            <l>To heare the battering bullet, foorth</l>
+            <l>From Engine to rebound.</l>
+            <l>To tosse the iron tipped pike,</l>
+            <l>To gird the dart at length:</l>
+            <l>To shake the warlike persing launce,</l>
+            <l>By sleight of setled strength.</l>
+            <pb facs="tcp:176406:7"/>
+            <l>To trauerse foorth his grounde, to place</l>
+            <l>His troupes in batayle ray:</l>
+            <l>To set his garisons, sometime</l>
+            <l>To marche, sometime to stay.</l>
+            <l>Long Winter watches to endure,</l>
+            <l>To beare the furious force:</l>
+            <l>Of nipping colde, to ioye in armes,</l>
+            <l>And strength of baughtie horse.</l>
+            <l>And not to loyter by the fyre,</l>
+            <l>Like Cupids carpet crue:</l>
+            <l>Which homage yeelde to Venus lawes,</l>
+            <l>And bid god Mars <hi>Adieu.</hi>
+            </l>
+            <l>And lingering long in louers lore,</l>
+            <l>These Impes in fine are faine:</l>
+            <l>A colde pursute to render vp,</l>
+            <l>
+               <hi>with trauayle for their payne.</hi>
+            </l>
+            <l>No, no, <hi>Didaco</hi> doth pretend,</l>
+            <l>To runne another race:</l>
+            <l>To honour Mars, and not to sue</l>
+            <l>Nor seeke for Venus grace.</l>
+            <l>Let them that haue abandoned,</l>
+            <l>The race that I wyll runne:</l>
+            <l>Submit them selues to Venus lure,</l>
+            <l>And Mars his practise shun.</l>
+            <l>Whose fainting fingers farre vnfit,</l>
+            <l>To handle speare or shield:</l>
+            <l>With amorous lynes their duetie may,</l>
+            <l>Vnto their Ladyes yéeld.</l>
+            <pb facs="tcp:176406:7"/>
+            <l>
+               <hi>Didaco</hi> of that Cloyster yet,</l>
+            <l>Wyll not a brother be:</l>
+            <l>That brotherhood I say doth not,</l>
+            <l>Accoro with his degree.</l>
+            <l>
+               <hi>Adien</hi> therefore dame Venus thou,</l>
+            <l>
+               <hi>Adien</hi> ye weakelinges all:</l>
+            <l>Whose humour suckes the filthy dregges,</l>
+            <l>Of Venus poysoned gall.</l>
+            <l>Cupide <hi>Adieu</hi> thou eluishe dwarfe,</l>
+            <l>In spite of this thy bowe:</l>
+            <l>And percing dartes <hi>Didaco</hi> he,</l>
+            <l>Wyl not thy godhead knowe,</l>
+            <l>
+               <hi>Didaco</hi> cruell warre proclaymes,</l>
+            <l>Vnto thy desperate arte:</l>
+            <l>He nought regardes the percing stroke,</l>
+            <l>Of this thy poysoned darte.</l>
+            <l>Sound out alarum loude, and woorke</l>
+            <l>
+               <hi>Didacos</hi> chéefe annoy:</l>
+            <l>Doo what thou canst, ile make thee graunt.</l>
+            <l>Thou dealste not with a boy.</l>
+            <l>Helpe goddesse Venus, helpe thy sonne,</l>
+            <l>Expresse part of thy cure:</l>
+            <l>
+               <hi>Didaco,</hi> spite of both, wyll not</l>
+            <l>Be subiect to your lure.</l>
+            <l>Assayle me both at once I say,</l>
+            <l>Shewe here your heauenly skyl:</l>
+            <l>
+               <hi>Didaco</hi> singes, in spite of both,</l>
+            <l>Ile be a warrier still.</l>
+            <pb facs="tcp:176406:8"/>
+            <l>
+               <hi>The goddesse Venus</hi> whyle she sate,</l>
+            <l>In her supernall throne:</l>
+            <l>Reuoluing proud <hi>Didacos</hi> vauntes,</l>
+            <l>Vnto her selfe alone.</l>
+            <l>And pondering, that a mortall wight,</l>
+            <l>Her godhead did reiect:</l>
+            <l>To Cupid she addrest her tate,</l>
+            <l>In this, or lyke effect.</l>
+            <l>Cupide thy mothers onely care,</l>
+            <l>And meane of good successe:</l>
+            <l>Attend myne hestes incontinent,</l>
+            <l>Thereto thy selfe addresse.</l>
+            <l>And as thou art the sonne of Mars,</l>
+            <l>And mighty in thy kinde:</l>
+            <l>To shewe thy force without remorse,</l>
+            <l>To please thy mothers minde.</l>
+            <l>My griefe is thyne, not myne alone</l>
+            <l>But common to vs both:</l>
+            <l>A mortall wight with vaunting bragges,</l>
+            <l>Our power deuine dooth lothe,</l>
+            <l>Hast thou not yet, long time or this,</l>
+            <l>By Trumpe of blasting fame:</l>
+            <l>Heard of a ryght redouted knight,</l>
+            <l>
+               <hi>Didoco</hi> calld by name.</l>
+            <l>He he it is that shakes our throne,</l>
+            <l>With many a thundring vaunt:</l>
+            <l>Howe that our power is not of force,</l>
+            <l>His courage for to daunt.</l>
+            <pb facs="tcp:176406:8"/>
+            <l>And shall a mortall wight presume,</l>
+            <l>Our godhead to prouoke?</l>
+            <l>Shal he from Venus scot free scape?</l>
+            <l>And shun god Cupides stroke?</l>
+            <l>And shall this youngling vndertake</l>
+            <l>With Venus to contend?</l>
+            <l>Shall he presume agaynst our forte</l>
+            <l>His batterie for to bend?</l>
+            <l>Where then shall Venus godhead lye?</l>
+            <l>Her art? her power deuine?</l>
+            <l>Forsooth euen prostrate in the dust,</l>
+            <l>And voyde of name in fine.</l>
+            <l>Who hencefoorth wyll adore my shrine?</l>
+            <l>Or Venus godhead knowe:</l>
+            <l>Or shortly on myne aulters, who</l>
+            <l>Due honour wyll bestowe?</l>
+            <l>My ioy and dearling deare, why is</l>
+            <l>Thy bowe vnbent so long?</l>
+            <l>Why shall we beare this iniurie,</l>
+            <l>Or tollerate such wrong.</l>
+            <l>If this should passe, the brute shal raigne,</l>
+            <l>By euery humaine wight:</l>
+            <l>That Cupids bowe is out of force,</l>
+            <l>And wants his woonted might.</l>
+            <l>Eclipsed shall our honour be,</l>
+            <l>Farewel god Cupids name:</l>
+            <l>And dame Venus power, none nowe,</l>
+            <l>Acknowledge wyll thy name.</l>
+            <pb facs="tcp:176406:9"/>
+            <l>Bend vp I say thy twanging bowe,</l>
+            <l>And with thy golden darte:</l>
+            <l>In open streetes whereas he walkes,</l>
+            <l>Goe wound <hi>Didacos</hi> hart,</l>
+            <l>Fyrst whet thy denting shafte his point,</l>
+            <l>Then drawe thy stryng so farre:</l>
+            <l>That so this youth may learne, what is</l>
+            <l>With Venus for to warre.</l>
+            <l>Thou knowest right well his wonted haunt,</l>
+            <l>In Valence citie bright:</l>
+            <l>Euen in the Goldsmithes rowe doth walke,</l>
+            <l>This right renowmed knight.</l>
+            <l>Fayre <hi>Violenta</hi> she it is,</l>
+            <l>The instrument must woorke:</l>
+            <l>Theffect of this the late deuise,</l>
+            <l>Whiche in my brest doth lurke.</l>
+            <l>On her enamored shall he be,</l>
+            <l>When fyrst he vewes her face:</l>
+            <l>And mauger all his vauntes, shal stoupe,</l>
+            <l>To séeke and sue for grace.</l>
+            <l>So shal dame Venus godhead lyue,</l>
+            <l>Her fame shall not decay:</l>
+            <l>The memory of Cupids acte,</l>
+            <l>Shalbe aduauncte for aye.</l>
+            <l>Nowe dearling myne, I haue displayd,</l>
+            <l>The summe of myne entent:</l>
+            <l>Expecting here howe thou the same.</l>
+            <l>To execute art bent.</l>
+            <pb facs="tcp:176406:9"/>
+            <l>Deare Lady, quéene, and mother mine,<note place="margin">
+                  <hi>Cupide</hi>
+               </note>
+            </l>
+            <l>Your Cupids only stay:</l>
+            <l>Your part it is for to commaund,</l>
+            <l>My duetie to obey.</l>
+            <l>Behold my bended bowe, behold,</l>
+            <l>My pearcing shaftes are prest:</l>
+            <l>And me in eche respect full bent,</l>
+            <l>To execute your heste.</l>
+            <l>Long since I vewed his glorious vauntes.</l>
+            <l>And yet I still decréed:</l>
+            <l>To suffer him his humour fond,</l>
+            <l>With folly for to feede.</l>
+            <l>He hath not been the first perdie,</l>
+            <l>That spurned at my lore:</l>
+            <l>The wound is not past cure, my dart</l>
+            <l>Hath launcte as great a sore.</l>
+            <l>He neuer yet was priuiledge,</l>
+            <l>From Cupids heauenly power:</l>
+            <l>Ile teache him well inough to come,</l>
+            <l>And goe at Venus lure.</l>
+            <l>I mightie Ioue enamoured,</l>
+            <l>On Ledyes glistering face,</l>
+            <l>And causd him, chaung int' shape of Swanne:</l>
+            <l>His Lady to embrace.</l>
+            <l>And then shall he, a humaine wight,</l>
+            <l>Depriud' of mortall race:</l>
+            <l>Presume so much vpon his strength,</l>
+            <l>As Cupide to deface?</l>
+            <pb facs="tcp:176406:10"/>
+            <l>No, no, ile sone his courage coole,</l>
+            <l>Ile tame this newcome geste.</l>
+            <l>That from his scornefull lippes at last,</l>
+            <l>
+               <hi>Peccaui</hi> I wyll wreste,</l>
+            <l>Nowe Ladie mother mine adue,</l>
+            <l>Your Cupide wyll attend,</l>
+            <l>The comming of this Champion stout,</l>
+            <l>My golden howe to bend.</l>
+            <l>In hope t' achiue this feate so well,</l>
+            <l>That all the worlde may knowe:</l>
+            <l>Howe Cupide wyll not sticke, his arte</l>
+            <l>In Venus cause to showe.</l>
+            <l>This sayde from skies vnto the Earth:</l>
+            <l>He takes his flight amayne.</l>
+            <l>And ouer Valence towne his winges</l>
+            <l>His naked corps sustayne.</l>
+            <l>Right soone the shout <hi>Didaco</hi> comes,</l>
+            <l>Frequenting still his gyse,</l>
+            <l>And veweth al the streetes about.</l>
+            <l>With glaunce of rowllyng eyes.</l>
+            <l>Thus raunging long at laste his eyes,</l>
+            <l>On <hi>Violenta</hi> cast.</l>
+            <l>Wherewith blinde Cupids poysoned shafte,</l>
+            <l>From bowe so fiercely brast.</l>
+            <l>That glidyng through the Ayre at last,</l>
+            <l>It touchte so nere the quicke,</l>
+            <l>So that thinfected point thereof,</l>
+            <l>Dyd in his stomacke sticke.</l>
+            <pb facs="tcp:176406:10"/>
+            <l>He féeling efte his secret wound,</l>
+            <l>As mute he stoode agaste.</l>
+            <l>And groning once or twise, in fyne,</l>
+            <l>Int' this complaynt be braste.</l>
+            <l>
+               <hi>O Heauen, o,</hi> earth, o Ioue aboue,</l>
+            <l>What meanes this sodayne stroke?</l>
+            <l>Did euer poore <hi>Didaco</hi> yet</l>
+            <l>Thy power diuine prouoke?</l>
+            <l>What sodayne marirdome is this?</l>
+            <l>What pinching pangues of hell?</l>
+            <l>The fates agaynst the fréedome, of</l>
+            <l>
+               <hi>Didaco</hi> doe rebell.</l>
+            <l>Oh what infernall monster thus:</l>
+            <l>Doth worke <hi>Didacos</hi> thrall.</l>
+            <l>What fury fell of <hi>Stigian</hi> Lake.</l>
+            <l>Hath nowe conspiro my fall?</l>
+            <l>Oh pinching panges of seruitude,</l>
+            <l>What iust desert dyd make</l>
+            <l>The gods on poore <hi>Didacos</hi> lyfe,</l>
+            <l>Suche vengeance for to take?</l>
+            <l>O goddesse Venus bowe thyne eares,</l>
+            <l>Of mercy to my playnt:</l>
+            <l>At lestwyse to these parching flambes,</l>
+            <l>Apply thou some restraint.</l>
+            <l>Powre not forth al thy penalties,</l>
+            <l>Vpon one simple wight</l>
+            <l>But nowe whereas I mercy craue,</l>
+            <l>Doo mitigate thy spite:</l>
+            <pb facs="tcp:176406:11"/>
+            <l>What honor shall redound to thee,</l>
+            <l>By plaguing thus the ghost:</l>
+            <l>Of one poore captiue knight (alas)</l>
+            <l>In treble tormentes toste.</l>
+            <l>O qualifie thy burnyng rage,</l>
+            <l>Represse thy boyling ire:</l>
+            <l>Destil the droppes of mercie, on</l>
+            <l>
+               <hi>Didacos</hi> feruent fyre.</l>
+            <l>I vowe my selfe thy seruaunt then.</l>
+            <l>Thy bondslaue and thy thrall:</l>
+            <l>With duetifull obedience,</l>
+            <l>To come when thou shalt call.</l>
+            <l>And sith I haue transgreste thy lawes,</l>
+            <l>And spurned at thy state:</l>
+            <l>Yet mercie graunt, <hi>Repentaunce due,</hi>
+            </l>
+            <l>
+               <hi>Doth neuer come to late.</hi>
+            </l>
+            <l>O Cupide thou, whose fatall shaft,</l>
+            <l>Hath thirld my wounded hart:</l>
+            <l>Some pitie to thy prisoner shewe,</l>
+            <l>And mitigate his smart.</l>
+            <l>Due homage I wyll yeeld to thee,</l>
+            <l>Thy power I wyll confesse:</l>
+            <l>And prayses to thy sacred name,</l>
+            <l>With thankfull voyce expresse.</l>
+            <l>My former vauntes I here recant,</l>
+            <l>The palme to thee I render:</l>
+            <l>With thy celestiall power to striue,</l>
+            <l>My force is farre to slender.</l>
+            <pb facs="tcp:176406:11"/>
+            <l>Reuoluing thus he throwes himselfe,</l>
+            <l>Vpon his pensiue bed:</l>
+            <l>A thousand heapes of wauering thoughtes,</l>
+            <l>Turmoyles his doubtfull head.</l>
+            <l>Oh <hi>Violenta</hi> bright, quod he,</l>
+            <l>Of bewtie passing rare:</l>
+            <l>Whose orient hue of face hath trapt,</l>
+            <l>My sences all in snare.</l>
+            <l>Why did curst fortune to vs both,</l>
+            <l>Such haples hap assigne:</l>
+            <l>That thy descent, and race, is not</l>
+            <l>Coequall vnto myne?</l>
+            <l>What hellishe hagge did gyde the glaunce,</l>
+            <l>Of this my raunging vewe:</l>
+            <l>That th'amorous glée of thée (poore girle)</l>
+            <l>My sences should subdue?</l>
+            <l>What spitefull constellacion, did</l>
+            <l>Enuy thy lucklesse fate,</l>
+            <l>To spring of line vnequall for,</l>
+            <l>Heroicall estate?</l>
+            <l>At least to all those giftes so rare,</l>
+            <l>Wherwith thou art possest:</l>
+            <l>Why did not Nature pitie plant,</l>
+            <l>Within thy stonie brest?</l>
+            <l>The rare perfection which she framd,</l>
+            <l>In thée by heauenly art:</l>
+            <l>Wilbe eclipsed with the cloude,</l>
+            <l>Of this thy sauage hart.</l>
+            <pb facs="tcp:176406:12"/>
+            <l>Right sure I am, yea to to sure,</l>
+            <l>Thou wilt not once relent:</l>
+            <l>Vnto those thousand seas of teares,</l>
+            <l>Which I for thee haue spent.</l>
+            <l>Thy heauie hardned eares will not,</l>
+            <l>Vnto my charmes encline:</l>
+            <l>But suffer poore <hi>Didaco</hi> still,</l>
+            <l>In languor for to pine.</l>
+            <l>Thy stomacke, sturdie, stonie, sterne,</l>
+            <l>Alas will neuer bend:</l>
+            <l>To poore <hi>Didacos</hi> flowing teares,</l>
+            <l>Whose dolors haue no end.</l>
+            <l>O cruell, crabbed, cursed fate,</l>
+            <l>O hap of all most harde:</l>
+            <l>What desperate dolefull destenie,</l>
+            <l>Haue you for me preparde?</l>
+            <l>What gilt of mine hath wrought such cause</l>
+            <l>
+               <hi>Didaco</hi> to enthrall:</l>
+            <l>On her, whose hart as hard is bent,</l>
+            <l>As is the brasen wall?</l>
+            <l>In nature like the Adamant,</l>
+            <l>Whose substance will not yeld:</l>
+            <l>Though thousand shoures from top of house,</l>
+            <l>Were on the same distild.</l>
+            <l>But oh my <hi>Violenta</hi> why</l>
+            <l>Do I thy rigor blame?</l>
+            <l>Why vomite I such foule despite,</l>
+            <l>Against thy sacred name?</l>
+            <pb facs="tcp:176406:12"/>
+            <l>I neuer felt thy furious moode,</l>
+            <l>I neuer tride thy spite:</l>
+            <l>Ne yet that thou didst loyall loue,</l>
+            <l>with rigor rude requite.</l>
+            <l>Dame nature framing this thy forme,</l>
+            <l>When she her skill expreste:</l>
+            <l>She might as well engraffe the sparkes,</l>
+            <l>Of pitie in thy brest.</l>
+            <l>And so per<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie she did. Why then</l>
+            <l>Do I (mad man) accuse:</l>
+            <l>Thy sundry vertues with reproche?</l>
+            <l>And eke thy name abuse.</l>
+            <l>Ioue graunt, there rest not in thine hart,</l>
+            <l>Of pitie such a want:</l>
+            <l>That I may iust occasion haue:</l>
+            <l>Thy prayses to recant.</l>
+            <l>Thus beating still his busied braine,</l>
+            <l>With many a wauering thought:</l>
+            <l>With thousand checkes he bannes the fates,</l>
+            <l>That this his thraldome wrought.</l>
+            <l>Againe rebuking this his rage,</l>
+            <l>With bit of reasons lore:</l>
+            <l>Reuokes eftsoone the curses, which</l>
+            <l>He thundered out before.</l>
+            <l>Fie fond <hi>Didaco,</hi> fie (quod he)</l>
+            <l>Sith Ioue appoynts it so:</l>
+            <l>Thy teares do but renue thy griefe,</l>
+            <l>And aggrauate thy woe.</l>
+            <pb facs="tcp:176406:13"/>
+            <l>Why dost thou spurne against the fates?</l>
+            <l>Thy burthen thou must beare,</l>
+            <l>Exclaime no more on Venus, why</l>
+            <l>Dost thou her godhead feare.</l>
+            <l>Why railste thou thus on Cupids bowe?</l>
+            <l>Why spurnste thou at his stroke?</l>
+            <l>No, no, thy stout vntamed necke,</l>
+            <l>Must bowe vnto his yoke.</l>
+            <l>Thou hast not bene the first, or this</l>
+            <l>That tasted of his dart,</l>
+            <l>Ne yet shalt be the last perdie,</l>
+            <l>That he shall make to smart.</l>
+            <l>As valiant knightes, as thou, or this</l>
+            <l>Haue bended at his becke:</l>
+            <l>And borne the waight of Cupids yoke,</l>
+            <l>Vpon their tamed necke.</l>
+            <l>Where is Hercules that worthy wight,</l>
+            <l>That made the world to wonder?</l>
+            <l>Who in his Cradle tare the Iawes,</l>
+            <l>Of Scorpions twaine asunder.</l>
+            <l>Why, was not he for all his might,</l>
+            <l>Enthrald in Venus lure:</l>
+            <l>And forc'te his Ladies loue in fine.</l>
+            <l>By teares for to procure?</l>
+            <l>Yes sure if credite ought be due,</l>
+            <l>To Poets learned lore:</l>
+            <l>If that their volumes he perusde,</l>
+            <l>As gemmes of passing store.</l>
+            <pb facs="tcp:176406:13"/>
+            <l>Then this they say, that Hercules,</l>
+            <l>His Ladies loue to winne:</l>
+            <l>Was faine in womans habite, on</l>
+            <l>A distaffe for to spinne.</l>
+            <l>And all that he had wrought by day</l>
+            <l>In turning of his wheele:</l>
+            <l>At night he was constraynde, the same,</l>
+            <l>Vpon his rocke to réele.</l>
+            <l>If loue of <hi>Lidian Omphale,</hi>
+            </l>
+            <l>Were of such passing might:</l>
+            <l>The traunced sences for to daunt,</l>
+            <l>Of this renouned Knight.</l>
+            <l>As to enioyne such péeuish taskes,</l>
+            <l>To Mars his chiefest saint:</l>
+            <l>What marueile then, I say, if loue</l>
+            <l>Hath made <hi>Didaco</hi> faint?</l>
+            <l>
+               <hi>Didaco</hi> thou art not a god,</l>
+            <l>Nor sprong of heauenly line:</l>
+            <l>But subiect to mortalitie,</l>
+            <l>The fates did so assigne.</l>
+            <l>And was not mightie Ioue himselfe,</l>
+            <l>Who with his stately becke:</l>
+            <l>Could cause the heauens and earth to quake,</l>
+            <l>And surging seas could checke,</l>
+            <l>Why, was not he, I say, a thrall,</l>
+            <l>And slaue to Venus lure?</l>
+            <l>Could his celestiall deytie,</l>
+            <l>His maladie recure?</l>
+            <pb facs="tcp:176406:14"/>
+            <l>Could be such sacred influence,</l>
+            <l>Into his vaines instill:</l>
+            <l>His fixed fancie to remoue?</l>
+            <l>Had Ioue such heauenly skill?</l>
+            <l>No, no, his honor to withdrawe,</l>
+            <l>That feate farre paste his Art:</l>
+            <l>His wound to déepe was trenched in,</l>
+            <l>By bloodie <hi>Cupidoes</hi> dart.</l>
+            <l>So farre vnable to expell,</l>
+            <l>his late conceaued flame:</l>
+            <l>That euery houre did minister,</l>
+            <l>A faggot to the same.</l>
+            <l>In fine constrained his deytie,</l>
+            <l>To chaunge into shape of bull:</l>
+            <l>Was faine that practise for to proue,</l>
+            <l>In hope to wynne his trull.</l>
+            <l>Why then if mightie Ioue himselfe,</l>
+            <l>Who rules the loftie skie:</l>
+            <l>For all his secrete god head, yet</l>
+            <l>In flames of loue did frie.</l>
+            <l>Then fond <hi>Didaco</hi> cease at laste,</l>
+            <l>Gainst <hi>Cupides</hi> lore to spurne:</l>
+            <l>Who made the mightie Ioue aboue.</l>
+            <l>In feruent amours burne.</l>
+            <l>He was a God and forc'te to yelde,</l>
+            <l>But thou a mortall man:</l>
+            <l>And spronge of humaine progenie,</l>
+            <l>Wilt kicke at <hi>Cupide</hi> than?</l>
+            <pb facs="tcp:176406:14"/>
+            <l>No, no <hi>Didaco</hi> bend thy wittes,</l>
+            <l>Some other way to proue:</l>
+            <l>Adapt thy selfe to <hi>Venus</hi> lore,</l>
+            <l>And learne to liue by loue.</l>
+            <l>Renounce thy triple trenching launce,</l>
+            <l>Detest thy fatall blade:</l>
+            <l>Abandon now thy glistering targe,</l>
+            <l>Of golde and amber made.</l>
+            <l>Farewell all martiall practises,</l>
+            <l>Bid griesely Mars <hi>Adieu:</hi>
+            </l>
+            <l>And all his traine: be dubde a knight,</l>
+            <l>Of <hi>Venus</hi> courtly crue.</l>
+            <l>Resigne thy warlike exercise,</l>
+            <l>To guyde a pompous traine:</l>
+            <l>Thou taken hast another charge,</l>
+            <l>In hand. Such toyes are vaine.</l>
+            <l>Farewell ye Impes of Chiualrie,</l>
+            <l>That Mars his bands do rule:</l>
+            <l>
+               <hi>Didaco</hi> taken hath degree,</l>
+            <l>Within another schoole.</l>
+            <l>A prentice now to <hi>Cupids</hi> trade,</l>
+            <l>And Ladie <hi>Venus</hi> thrall:</l>
+            <l>Fast bound in sacred soleme vowe,</l>
+            <l>To come when they shall call.</l>
+            <l>Ten thousand times ye Spanish knightes,</l>
+            <l>In prowes that excell,</l>
+            <l>And all the band of Mars his badge,</l>
+            <l>Ten thousand times farewell.</l>
+            <pb facs="tcp:176406:15"/>
+            <l>Well now <hi>Didaco</hi> frame thy selfe,</l>
+            <l>To take a second vewe:</l>
+            <l>Of that so amorous glée, which first</l>
+            <l>Thy sences did subdue.</l>
+            <l>With flowing teares from eyes distild,</l>
+            <l>With many a pensiue grone:</l>
+            <l>With thousand signes of loyaltie,</l>
+            <l>Goe make to her thy moue.</l>
+            <l>Vnfold those restles agonies,</l>
+            <l>Expresse the endles smarte:</l>
+            <l>Which since th'encounter of her vewe,</l>
+            <l>Haue slaine thy poore true harte.</l>
+            <l>Perchaunce, she is not of haggards kind,</l>
+            <l>Nor hart so hard is bend:</l>
+            <l>But thy distylling teares in fine,</l>
+            <l>May moue her to relend.</l>
+            <l>But if thy profered loyall loue,</l>
+            <l>with sterne replies be fed:</l>
+            <l>Then farewell life, and libertie,</l>
+            <l>
+               <hi>Didaco</hi> thou art dead.</l>
+            <l>Hap glad, or sad, I meane to prooue,</l>
+            <l>If that my restles flame:</l>
+            <l>With thousand flouds of teares expreste,</l>
+            <l>My Ladyes hart may tame.</l>
+            <l>Perchaunce my plaints may mollifie,</l>
+            <l>Her hard and stonie minde:</l>
+            <l>And that the planges which I sustaine,</l>
+            <l>Some swéete remorse may finde.</l>
+            <pb facs="tcp:176406:15"/>
+            <l>Resolued thus within his minde,</l>
+            <l>From bed he rose againe:</l>
+            <l>And layes his faintie limmes, within</l>
+            <l>A swéete perfumed bayne.</l>
+            <l>And casting on his Spanish Cape,</l>
+            <l>Directes his trembling pace:</l>
+            <l>Into goldsmithes rowe, to haue a vewe,</l>
+            <l>Of <hi>Violentas</hi> face.</l>
+            <l>And often trauersing the stréetes,</l>
+            <l>Adioyning to her boure:</l>
+            <l>To cast a secrete glaunce, sometimes</l>
+            <l>His eyes he doth inure.</l>
+            <l>Full many a pilgrimage he made.</l>
+            <l>His fancie for to féede:</l>
+            <l>Vnto the shrine of this his saint,</l>
+            <l>Before he once could spéede.</l>
+            <l>In fine when many an amorous glaunce,</l>
+            <l>He wrested had in vaine:</l>
+            <l>Vnto the temple, where he knewe,</l>
+            <l>The goddesse did remaine.</l>
+            <l>In th'end Dame fortune fickle Dame,</l>
+            <l>In lieu of former spite:</l>
+            <l>Preferres this doting amorous Impe,</l>
+            <l>Vnto his ladyes sight.</l>
+            <l>Who tooke the present offer straight,</l>
+            <l>And costing thwart the way:</l>
+            <l>With bonnet vayld vnto the ground,</l>
+            <l>Before his saint doth stay.</l>
+            <pb facs="tcp:176406:16"/>
+            <l>She not forgetting yet the trade,</l>
+            <l>And courteous gyse of Spayne:</l>
+            <l>Doth with a courtly braue <hi>Boniour,</hi>
+            </l>
+            <l>Salute the knight agayne.</l>
+            <l>Whereat his fond conceytes did sinke,</l>
+            <l>So deepe into his braine:</l>
+            <l>So that the flaming humor straight,</l>
+            <l>Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yrde into euery vayne.</l>
+            <l>And feeding on a frustrate hope,</l>
+            <l>With visage wanne and pale:</l>
+            <l>In this effect vnto his dame,</l>
+            <l>He frames his trembling tale.</l>
+            <l>If that the dames of destenie,</l>
+            <l>The twiste in twayne had shred:</l>
+            <l>By which the vitall breth into,</l>
+            <l>My panting vaynes is led.</l>
+            <l>If they I say had fined my fate,</l>
+            <l>Before mine eyes did see:</l>
+            <l>The forme of this thy heauenly face,</l>
+            <l>Adornd with such a glee.</l>
+            <l>Then Madame, neuer had I felt,</l>
+            <l>The feuers of such payne:</l>
+            <l>Ne had your bewtie brued the bale,</l>
+            <l>That I poore man sustayne.</l>
+            <l>At least wise this straunge martirdome,</l>
+            <l>That rackes my wounded hart:</l>
+            <l>Farre easier were to tolerate,</l>
+            <l>And lesser were my smart,</l>
+            <pb facs="tcp:176406:16"/>
+            <l>Thine orient bewtie eke, which first</l>
+            <l>My sences did enthrall:</l>
+            <l>Might better be dispenst withall,</l>
+            <l>For this my fatall fall.</l>
+            <l>A fall sayd I? nay rather downe,</l>
+            <l>To Limbo lake deiecte:</l>
+            <l>If mercy thine be not a meane,</l>
+            <l>My state for to erecte.</l>
+            <l>Thy face hath captiuate my witts,</l>
+            <l>And traunc'te my sences so:</l>
+            <l>That euery houre with thousand thoughtes</l>
+            <l>Doth aggrauate my woe.</l>
+            <l>And doubtles (dame) except your grace,</l>
+            <l>That did my thrall procure:</l>
+            <l>Prepare some speedie remedie,</l>
+            <l>My feuer to recure.</l>
+            <l>These handes of mine shall execute,</l>
+            <l>The cursed fates beheste:</l>
+            <l>With bloudie knife to perce the hart,</l>
+            <l>In this turmoyled brest.</l>
+            <l>And when this breathles corps of mine,</l>
+            <l>Shalbe interd in mould:</l>
+            <l>This Epitaph shall there be fixt,</l>
+            <l>For all men to behold.</l>
+            <l>
+               <hi>Stay passenger, a knight within,</hi>
+            </l>
+            <l>
+               <hi>This secrete vaute doth he:</hi>
+            </l>
+            <l>
+               <hi>VVho pyning long with restles loue,</hi>
+            </l>
+            <l>
+               <hi>At last for loue did die.</hi>
+            </l>
+            <pb facs="tcp:176406:17"/>
+            <l>Then Ladie shalt thou noted be,</l>
+            <l>And pointed at of all:</l>
+            <l>As she whose hardned hart did worke.</l>
+            <l>The poore <hi>Didacoes</hi> thrall.</l>
+            <l>O harden not thine heauie eares,</l>
+            <l>Against the grieuous grone:</l>
+            <l>Of poore <hi>Didaco,</hi> whom thy loue</l>
+            <l>Hath causde to make his mone.</l>
+            <l>Recount the restles agonies,</l>
+            <l>Record the endles smart:</l>
+            <l>And pyning passions, that turmoyle</l>
+            <l>And racke <hi>Didacoes</hi> hart.</l>
+            <l>O thinke vpon that hell of paines,</l>
+            <l>That raunge within my minde:</l>
+            <l>Thinke on my mortall martirdome,</l>
+            <l>That no reliefe can finde.</l>
+            <l>Stoppe not thine eares, as doth the Aspe,</l>
+            <l>Against my piteous plaints:</l>
+            <l>But harken to the restles toyle,</l>
+            <l>That thus my soule atteints.</l>
+            <l>And sure I thinke, if that the sound</l>
+            <l>Of these my drery teares:</l>
+            <l>With seas of sobbing sighes expreste,</l>
+            <l>Might perce your hardned eares.</l>
+            <l>The vehemence therof no doubt,</l>
+            <l>Would openly define:</l>
+            <l>The furious force of these turmoyles,</l>
+            <l>Wherein (poore man) I pine.</l>
+            <pb facs="tcp:176406:17"/>
+            <l>Although ten thousand flouds of teares,</l>
+            <l>Cannot at full expresse:</l>
+            <l>The lingring languor, and the woe</l>
+            <l>That doth myne hart oppresse.</l>
+            <l>This said, with many a secrete grone,</l>
+            <l>Displaying forth his case:</l>
+            <l>The brinishe teares distilling downe,</l>
+            <l>Embrude his blubbered face.</l>
+            <l>That who had séene his tragicall lookes,</l>
+            <l>In gesturing his part:</l>
+            <l>Would say his tongue did truly tell,</l>
+            <l>The message of his hart.</l>
+            <l>She somwhat basht at this discourse,</l>
+            <l>Which he poore man expreste:</l>
+            <l>With gesture séemely set, in fine</l>
+            <l>This short replie addreste.</l>
+            <l>My <hi>Seigniour Didaco</hi> if your youth,</l>
+            <l>In martiall practise spent:</l>
+            <l>And perfect skill in Chiualrie,</l>
+            <l>Which vse to you haue lent.</l>
+            <l>Or if your brute iblazd abroade,</l>
+            <l>With golden trumpe of fame:</l>
+            <l>Cannot enforce you to represse,</l>
+            <l>This brutish raging flame.</l>
+            <l>Why, then with hitt of reasons lore,</l>
+            <l>Restrayning your desire:</l>
+            <l>Endeuour for to quench the sparkes,</l>
+            <l>Of this turmoyling fire.</l>
+            <pb facs="tcp:176406:18"/>
+            <l>
+               <hi>Didaco,</hi> once you numbered were,</l>
+            <l>The floure of Mars his traine:</l>
+            <l>And throughly tried in all respectes,</l>
+            <l>That vnto warre pertaine.</l>
+            <l>And haue not you full ofte or this,</l>
+            <l>With golden crested shield:</l>
+            <l>And with a fatall slicing blade,</l>
+            <l>Marchste formost in the field.</l>
+            <l>You sundry times haue made you foes,</l>
+            <l>With terror for to quake:</l>
+            <l>And eke the brasen bulwarkes strong,</l>
+            <l>With Engins force to shake.</l>
+            <l>And then shall he whom thousand foes,</l>
+            <l>Could not subdue in fight:</l>
+            <l>Be made a seruile slaue and thrall,</l>
+            <l>To <hi>Cupids</hi> onely might?</l>
+            <l>What shame is this to you, who erst</l>
+            <l>In fight haue wonne such fame:</l>
+            <l>Yet now at last to want the force,</l>
+            <l>Your owne desires to tame?</l>
+            <l>But sure not you alone sustayne,</l>
+            <l>The force of <hi>Cupids</hi> flame:</l>
+            <l>But I poore girle as well haue felt,</l>
+            <l>The furie of the same.</l>
+            <l>And yet so farre to my desires.</l>
+            <l>I neuer loase the rayne:</l>
+            <l>But that I know by reasons rule,</l>
+            <l>The brydle to restraine.</l>
+            <pb facs="tcp:176406:18"/>
+            <l>And sure <hi>Didaco</hi> if your sute,</l>
+            <l>To honest purpose tend:</l>
+            <l>If vnder cloke of loyall loue,</l>
+            <l>No treason you pretend.</l>
+            <l>Then <hi>Violenta</hi> vowes her selfe,</l>
+            <l>Your seruant for to be:</l>
+            <l>Till tearme of these her dayes shalbe,</l>
+            <l>Abridgde by fares decrée.</l>
+            <l>But if to glut your lust, you vile,</l>
+            <l>Your purpose to obtaine:</l>
+            <l>In faith your labour is but lost,</l>
+            <l>And all your trauaile vaine.</l>
+            <l>And ther fore best it were in time,</l>
+            <l>Your fancie to forgoe:</l>
+            <l>Least further fostering of the same,</l>
+            <l>Do aggrauate your woe.</l>
+            <l>This said within the doores she flange,</l>
+            <l>And so her aunswere ended:</l>
+            <l>With scornefull scoffes, and furious face</l>
+            <l>As though she were offended.</l>
+            <l>He silly soule when this reply,</l>
+            <l>So sterne, had cut his combe:</l>
+            <l>With minde surprised with thousand panges,</l>
+            <l>In fine returneth home.</l>
+            <l>And casting downe his faynting corps,</l>
+            <l>Vpon his restles bed:</l>
+            <l>Renues the wonted heape of plaints,</l>
+            <l>Within his wauering head.</l>
+            <pb facs="tcp:176406:19"/>
+            <l>O poore <hi>Didaco,</hi> what desert,</l>
+            <l>Or worthy guilt of thine:</l>
+            <l>Enflamd the furious hellish fates,</l>
+            <l>Thy life for to repine?</l>
+            <l>What mou'd their mindes for to directe,</l>
+            <l>Thy wanton glauncing eye:</l>
+            <l>On her who forceth not thy griefe,</l>
+            <l>Though thousand times thou die?</l>
+            <l>O Cupid thou, thou iudge vniuste,</l>
+            <l>Vniustest iudge of all:</l>
+            <l>Do thou in equall balance payse,</l>
+            <l>The burthen of my thrall.</l>
+            <l>Thy golden quiuer ransacke vp,</l>
+            <l>And with the selfe same dart:</l>
+            <l>Wherwith thou first didst perce my brest,</l>
+            <l>Wound <hi>Violentas</hi> hart.</l>
+            <l>O let not poore <hi>Didaco</hi> pine,</l>
+            <l>In restles languor still:</l>
+            <l>Whose frustrate plaints, with piteous sounds,</l>
+            <l>The vacant-ayre doe fill.</l>
+            <l>Whose griefe succeedes a second griefe,</l>
+            <l>Whose plaints fresh plaints ensueth:</l>
+            <l>Whose racking martirdome would mo<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>,</l>
+            <l>A stonie rocke to ruthe.</l>
+            <l>Some say that Orpheus with the tune,</l>
+            <l>Of syluer sounding stringe,</l>
+            <l>Causde trées to moue and birdes to carpe,</l>
+            <l>And stones to leape and springe.</l>
+            <pb facs="tcp:176406:19"/>
+            <l>The groning ghostes of <hi>Stigian</hi> lake,</l>
+            <l>Were all istriken mute:</l>
+            <l>To heare the soleme ditties sound,</l>
+            <l>Recorded on his lute.</l>
+            <l>The staruing Tantalus that stoode,</l>
+            <l>The weltring floud within:</l>
+            <l>And pines though Apples touch his nose,</l>
+            <l>And water reach his chinne.</l>
+            <l>When once be heard this hermony,</l>
+            <l>(Though staruing still he stoode:)</l>
+            <l>He forced not the fruite, ne yet</l>
+            <l>The water of the floud.</l>
+            <l>Thou sweting <hi>Sisiphus</hi> amayne,</l>
+            <l>Whose straunge and endles taske:</l>
+            <l>Requires an endles time to doe,</l>
+            <l>And endles toyle doth aske.</l>
+            <l>Who toilste in tumbling vp thy stone,</l>
+            <l>Vnto the top of hill:</l>
+            <l>And yet for all thine Art, the same,</l>
+            <l>Comes rowling downward still.</l>
+            <l>Orpheus his lute did lullaby,</l>
+            <l>Thy traunced sences so:</l>
+            <l>That thou didst rest vpon thy stone,</l>
+            <l>And cleane forgotst thy woe.</l>
+            <l>You <hi>Belides</hi> which for to fill,</l>
+            <l>The hogsheads take such payne:</l>
+            <l>And yet the water that you poure,</l>
+            <l>Comes gusshing forth againe.</l>
+            <pb facs="tcp:176406:20"/>
+            <l>The siluer sound of Orpheus lute:</l>
+            <l>Your myndes did so enchaunte:</l>
+            <l>That you forgat the taske which erst.</l>
+            <l>Did vse your spirites to daunt,</l>
+            <l>Irion, thou, whose snakie whele,</l>
+            <l>For euer turneth round:</l>
+            <l>The same had not the power to moue,</l>
+            <l>At Orpheus heauenly sound.</l>
+            <l>The rauening vulture eke constraynd,</l>
+            <l>His talents to withdrawe:</l>
+            <l>And forced not with becke to rent,</l>
+            <l>Promethus mangled mawe.</l>
+            <l>The gréedie gripe which erst was wont,</l>
+            <l>To play his cursed part:</l>
+            <l>Doth loath his pray, and cease to teare.</l>
+            <l>Poore <hi>Titius</hi> rented hart.</l>
+            <l>But if thou <hi>Sisiphus</hi> shouldst vewe,</l>
+            <l>My restles plaints and moone:</l>
+            <l>I thinke thine hand would cease to rowle,</l>
+            <l>The fatall tumbling stone,</l>
+            <l>Thou Tantalus, and all the ghostes,</l>
+            <l>That lurke in <hi>Stygian</hi> lake:</l>
+            <l>Wheras your hellish howling throates.</l>
+            <l>A monstrous noyse do make.</l>
+            <l>Thou <hi>Pluto</hi> with thy griesely trayne.</l>
+            <l>And all th'infernall crue:</l>
+            <l>Would bend your eares to heare my plaints,</l>
+            <l>And eke my dolors rue.</l>
+            <pb facs="tcp:176406:20"/>
+            <l>The martirdome that mortifyes,</l>
+            <l>My musing mazed minde:</l>
+            <l>The dayly restles agonies,</l>
+            <l>Which no reliefe can finde.</l>
+            <l>The percing panges and endles toyles,</l>
+            <l>which I poore man sustayne:</l>
+            <l>Would moue an hart of flint, to rue</l>
+            <l>The rigor of my payne.</l>
+            <l>I frie, I freese, I burne, I broyle,</l>
+            <l>I starue, I <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I fume:</l>
+            <l>I liue and die, I die and liue,</l>
+            <l>In languor I consume.</l>
+            <l>O poore <hi>Didaco</hi> wretched wight.</l>
+            <l>which liuing, still dost die:</l>
+            <l>Whose limmes within the smothering flames,</l>
+            <l>Of <hi>Aetna</hi> sulphure frie.</l>
+            <l>O martird man consumd away,</l>
+            <l>In stormes of treble thrall:</l>
+            <l>Thou bearst she shadow of a man,</l>
+            <l>And art no man at all.</l>
+            <l>But from a man into a ghost,</l>
+            <l>The destenies did thee chaunge:</l>
+            <l>Full like th'infernall furies which,</l>
+            <l>In Plutoes kingdome raunge.</l>
+            <l>Therfore <hi>Didaco</hi> arme thy selfe,</l>
+            <l>Against the fates decrée:</l>
+            <l>Sith that thy toile with nought but death,</l>
+            <l>Shall counteruayled bee.</l>
+            <pb facs="tcp:176406:21"/>
+            <l>Yet wretched man what dost thou meane,</l>
+            <l>Thy traueile to resigne?</l>
+            <l>Thy sute, if well pursued it be,</l>
+            <l>May haue successe in fine.</l>
+            <l>Some say there is no fort so strong,</l>
+            <l>Though founded on a rocke:</l>
+            <l>But that a golden key hath power,</l>
+            <l>And force to breake the locke.</l>
+            <l>Therfore, where loue doth want the skill,</l>
+            <l>Thy purpose for to reache:</l>
+            <l>There hazard once to put in proofe,</l>
+            <l>If Coyne can make the breache.</l>
+            <l>Thy Lady is not of royall race,</l>
+            <l>But of a meane descent:</l>
+            <l>Therfore thy golden chaines perchaunce,</l>
+            <l>May cause her to relent.</l>
+            <l>When this was sayd, with trembling fiste,</l>
+            <l>He frames his louing lines:</l>
+            <l>The faithfull charge wherof, vnto</l>
+            <l>His seruaunt be assignes.</l>
+            <l>Sir hundred Ducats therewithall,</l>
+            <l>To send he doth not faile:</l>
+            <l>To proue, where feruent sute was vaine,</l>
+            <l>If gold could there preuaile.</l>
+            <l>The Post, who of this Embassage,</l>
+            <l>The full effect had scand:</l>
+            <l>Surrenders vp the signed briefe,</l>
+            <l>To <hi>Violentas</hi> hand.</l>
+            <pb facs="tcp:176406:21"/>
+            <l>Who hauing vewde with rowling eye,</l>
+            <l>The tenure of the same:</l>
+            <l>Could not represse her rage, but forth,</l>
+            <l>It burst into a flame.</l>
+            <l>What moues your maisters mind, (quod she)</l>
+            <l>Such battery for to bend:</l>
+            <l>Against the fort where sure he is,</l>
+            <l>The beare foyle in th'end.</l>
+            <l>And did he thinke, his wished pray,</l>
+            <l>With golden trappes to trayne:</l>
+            <l>Where lingring loue with restles sute,</l>
+            <l>His purpose could not gayne.</l>
+            <l>Goe, bid him proue some other dames.</l>
+            <l>With this his tangling tale:</l>
+            <l>For <hi>Violenta</hi> hath not set,</l>
+            <l>Her chastitie to sale.</l>
+            <l>The loue of other wanton dames,</l>
+            <l>Let him with golde procure:</l>
+            <l>That are more prone and pliable,</l>
+            <l>Vnto his beastly lure.</l>
+            <l>Poore <hi>Violentas</hi> loue, is not</l>
+            <l>With money to be solde:</l>
+            <l>The price of her Virginitie,</l>
+            <l>She measures not with golde,</l>
+            <l>And sure the breache thereof, shall not</l>
+            <l>With golden siege be wrought:</l>
+            <l>Where loue with profered seruice once,</l>
+            <l>Thereto preuayled nought.</l>
+            <pb facs="tcp:176406:22"/>
+            <l>Therfore desire him cease his sute,</l>
+            <l>And frustrate trauayle end:</l>
+            <l>For sure he shall not wynne his will.</l>
+            <l>By meanes he doth pretend.</l>
+            <l>This dolefull newes, the Post vnto</l>
+            <l>
+               <hi>Didaco</hi> doth display:</l>
+            <l>Recounting all the case at large,</l>
+            <l>In chamber where he lay.</l>
+            <l>Who when he heard that all his driftes,</l>
+            <l>Her loue could not attayne:</l>
+            <l>And how that this vncessant toyle,</l>
+            <l>And trauayle was in vayne.</l>
+            <l>Full faine God wotte poore man he would,</l>
+            <l>Haue quencht this raging fyre:</l>
+            <l>But yet he wanted force and strength,</l>
+            <l>To brydle his desire.</l>
+            <l>O <hi>Violenta</hi> fayre, quod he,</l>
+            <l>Why did the fates decrée:</l>
+            <l>That thou by line all race art borne,</l>
+            <l>Inferiour farre to mée.</l>
+            <l>In thee alone (poore girle) doth rest.</l>
+            <l>The cause of lyfe of death:</l>
+            <l>Thy stonie hart will force me yeld,</l>
+            <l>This brittle borowed breath.</l>
+            <l>But sith dame reason is exild,</l>
+            <l>And fancie beares the sway:</l>
+            <l>That wisdomes rule is not of force,</l>
+            <l>Affection to allay.</l>
+            <pb facs="tcp:176406:22"/>
+            <l>But wit and will with wauering thoughts,</l>
+            <l>Do combate in my brayne,</l>
+            <l>Néedes must I proue some straunge deuise,</l>
+            <l>My purpose to obtayne.</l>
+            <l>
+               <hi>Didaco,</hi> why is thy fond mynd,</l>
+            <l>With lusting humors led:</l>
+            <l>Why doest thou not with nuptiall bands,</l>
+            <l>Adioyne her to thy bed.</l>
+            <l>Forsooth thy reason is because,</l>
+            <l>Shee is not of royall line:</l>
+            <l>But of base parentage deriu'd,</l>
+            <l>Vnequall farre for thine.</l>
+            <l>And then shouldst thou conioyne thy selfe.</l>
+            <l>To such a one as shee?</l>
+            <l>Fie, no, that match were farre vnfit,</l>
+            <l>And not for thy degrée.</l>
+            <l>Why foole doth true nobilitie,</l>
+            <l>Consist in bloud alone?</l>
+            <l>Is there no meane, but noble race,</l>
+            <l>To clime to honors throne?</l>
+            <l>Yes, foolish man, the vertues rare,</l>
+            <l>That harber in her brest:</l>
+            <l>Haue power to scale the stéepie mount,</l>
+            <l>where honors seate doth rest.</l>
+            <l>When nature this her image formd,</l>
+            <l>Her giftes she did not scant:</l>
+            <l>But to to prodigall the same,</l>
+            <l>In this one péece did plaint.</l>
+            <pb facs="tcp:176406:23"/>
+            <l>Why then if natures noble gyftes,</l>
+            <l>That glyster in her face:</l>
+            <l>May counterpayse the dignitie,</l>
+            <l>And fame of royall race.</l>
+            <l>Then doubt not, <hi>Violenta</hi> bright,</l>
+            <l>To take vnto thy mate:</l>
+            <l>Whose vertues matche the titles, of</l>
+            <l>Heroicall estate.</l>
+            <l>And sure I meane if fates agrée,</l>
+            <l>Euen thée poore girle to choose:</l>
+            <l>If thou wilt dayne for to accept,</l>
+            <l>
+               <hi>Didaco</hi> to thy spouse.</l>
+            <l>And hauing thus his minde resolu'd,</l>
+            <l>Within his wauering brest:</l>
+            <l>On <hi>Violenta</hi> nowe a freshe,</l>
+            <l>The onset he addrest.</l>
+            <l>Madame, if Spousall vowes be demed,</l>
+            <l>The touchstone for to be:</l>
+            <l>Whereby men try the sacred bonds.</l>
+            <l>Of perfect amitie.</l>
+            <l>Then haue you gotte, if so you please,</l>
+            <l>Such one to be your feere:</l>
+            <l>Who, then thimperiall crowne of Spaine,</l>
+            <l>Esteemes your loue more deere.</l>
+            <l>He is not borne of base degree,</l>
+            <l>Ne yet of rascall race:</l>
+            <l>
+               <hi>Didaco</hi> I euen I am he,</l>
+            <l>The knight you shall embrace.</l>
+            <pb facs="tcp:176406:23"/>
+            <l>Whom, from his faith no daungers great.</l>
+            <l>Nor perilles shall remoue:</l>
+            <l>If that you doe him worthy deme,</l>
+            <l>For to enioye your loue.</l>
+            <l>She rauished with ioye, to heare,</l>
+            <l>The knight this tale recite:</l>
+            <l>Her foltring tongue within her mouth,</l>
+            <l>Stoode mute and speachles quite.</l>
+            <l>At last with shamefast bashfulnes,</l>
+            <l>She set aside the vaile:</l>
+            <l>Of silence, and to this effect,</l>
+            <l>She framd her sugred tale.</l>
+            <l>
+               <hi>Didaco</hi> you perdie haue forgde,</l>
+            <l>This long discourse of loue:</l>
+            <l>To vndermine my meaning, and</l>
+            <l>My constancie to proue.</l>
+            <l>But yet assure your selfe of this,</l>
+            <l>If that your meaning tend:</l>
+            <l>Vnto no worse effect then this,</l>
+            <l>That you in words pretend.</l>
+            <l>Though <hi>Violenta</hi> be deriu'd,</l>
+            <l>Of parentage but base:</l>
+            <l>Yet sure in zeale of loyall loue,</l>
+            <l>She will not geue you place.</l>
+            <l>And further hopes, for to behaue,</l>
+            <l>Her selfe so well in fine:</l>
+            <l>That you shall haue no cause to wishe,</l>
+            <l>Her person to resigne.</l>
+            <pb facs="tcp:176406:24"/>
+            <l>Not for the worthiest dame in Spayne,</l>
+            <l>Though she in dignitie:</l>
+            <l>Do farre surmount the basenes, of</l>
+            <l>My simple pedegrée.</l>
+            <l>Hereat his motions of delite,</l>
+            <l>Beginning to renue:</l>
+            <l>Doth with a precious Emerald,</l>
+            <l>Confirme his plighted vowe.</l>
+            <l>And printing many an amorous kisse,</l>
+            <l>Her orient lippes vpon,</l>
+            <l>Debateth of the Nuptiall rites,</l>
+            <l>And howe to haue them done.</l>
+            <l>Wherof they both concluded thus,</l>
+            <l>To be a meane most fit:</l>
+            <l>That some vnknown strange minister</l>
+            <l>That sacred knot should knit.</l>
+            <l>And that before the twinkling starres,</l>
+            <l>were from the heauens fled:</l>
+            <l>Or flaming <hi>Phoebus</hi> should display,</l>
+            <l>His glorious glistring head:</l>
+            <l>And so resolu'd, before day light,</l>
+            <l>
+               <hi>Didaco</hi> did her wed:</l>
+            <l>Where she by plighted vow was made</l>
+            <l>Partaker of his bed.</l>
+            <l>And spending all that ioyfull day,</l>
+            <l>In seas of braue delight:</l>
+            <l>Enioye alike the benefite,</l>
+            <l>Of that long wished night.</l>
+            <pb facs="tcp:176406:24"/>
+            <l>Thus twelue ful moneths had passed one,</l>
+            <l>Deuoyd of all annoy:</l>
+            <l>And no deuise was left vnprou'd,</l>
+            <l>That might augment their ioy.</l>
+            <l>In briefe he neuer was at ease,</l>
+            <l>But in his ladies sight:</l>
+            <l>And she did neuer ioy, without</l>
+            <l>The presence of her knight:</l>
+            <l>Thus euery night in couert wise.</l>
+            <l>He marcheth to her boure:</l>
+            <l>To staunch his gréedie lusting thrist,</l>
+            <l>And toyes to put in vre.</l>
+            <l>So long he haunted this recourse,</l>
+            <l>Vnto his Idolls shrine:</l>
+            <l>That <hi>Violentas</hi> honesty,</l>
+            <l>Was doubted of in fine.</l>
+            <l>Some demd because that he so soft,</l>
+            <l>From home to her retired:</l>
+            <l>He vsed more homely valiance,</l>
+            <l>Then honestie required.</l>
+            <l>Wherby her fame defamed was</l>
+            <l>With this surmised blot:</l>
+            <l>Which by the oft repayring of</l>
+            <l>
+               <hi>Didaco,</hi> she had got.</l>
+            <l>But she whose blameles conscience,</l>
+            <l>Was giltles of the crime:</l>
+            <l>Referres the triall of her cause,</l>
+            <l>To course of further time.</l>
+            <pb facs="tcp:176406:25"/>
+            <l>Although (the bruted false surmise,</l>
+            <l>Of people to deface:)</l>
+            <l>She prayes her spouse to take her home,</l>
+            <l>Vnto his dwelling place.</l>
+            <l>But he that know with long delayes,</l>
+            <l>Her fancie for to féede:</l>
+            <l>Protractes the time, and neuer to</l>
+            <l>Her iuste request agréed:</l>
+            <l>And hauing purchased the whole,</l>
+            <l>Possession of her harte:</l>
+            <l>He knewe the meanes, her doting minde,</l>
+            <l>As pleasde him to conuert.</l>
+            <l>That gathering by her amorous looke,</l>
+            <l>Her loue did still enflame:</l>
+            <l>By litle he withdrewe his mynde,</l>
+            <l>And zeale more cold became.</l>
+            <l>And leauing now the gyse, which erste,</l>
+            <l>He vsed to frequent:</l>
+            <l>Accustometh at sundry times,</l>
+            <l>Himselfe for to absent.</l>
+            <l>And whensoeuer he repayred,</l>
+            <l>Her companie vntyll:</l>
+            <l>Was still to glut his greedy lust,</l>
+            <l>And neuer for good will.</l>
+            <l>In fine he loathes his former matche,</l>
+            <l>And pondering in his brayne:</l>
+            <l>What great reproche, his honor was,</l>
+            <l>In daunger to sustayne.</l>
+            <pb facs="tcp:176406:25"/>
+            <l>If brute should now be blazd abroade,</l>
+            <l>That he had tane to mate:</l>
+            <l>A girle, whose linage was so farre,</l>
+            <l>Vnfit for his estate.</l>
+            <l>To this effect he bends his toyle,</l>
+            <l>And trauelles all doth frame:</l>
+            <l>What way he soonest might preuent,</l>
+            <l>The cause of such defame.</l>
+            <l>Wheron acquainting straight himselfe,</l>
+            <l>with dames of noble race:</l>
+            <l>In fine he founde one to supply,</l>
+            <l>Poore <hi>Violentas</hi> place,</l>
+            <l>Of qualities so excellent,</l>
+            <l>And bewtie passing rare:</l>
+            <l>That might with any Spanish dame,</l>
+            <l>In eche respect compare.</l>
+            <l>He taking efte the benefite,</l>
+            <l>Of this so happy fate:</l>
+            <l>The nuptiall rites to consecrate,</l>
+            <l>Doth in his minde debate.</l>
+            <l>Procuring such triumphant showes,</l>
+            <l>And choyse of princely sportes:</l>
+            <l>That all the crue of Spanish knightes,</l>
+            <l>To vewe thereof resortes.</l>
+            <l>The prauncing coursers some bestride,</l>
+            <l>with percing launce in rest:</l>
+            <l>The mightie troncheons do rebound,</l>
+            <l>Icrasde on helmets crest.</l>
+            <pb facs="tcp:176406:26"/>
+            <l>Some try their skill at bended bowes,</l>
+            <l>At barriers braue some fight:</l>
+            <l>And some with maskes of rare deuise,</l>
+            <l>The lookers on delight.</l>
+            <l>The straunge confects of daintie cates,</l>
+            <l>The choyse of pleasant wine:</l>
+            <l>The curious course of costly knacks.</l>
+            <l>With iunkers passing fine.</l>
+            <l>Did make the Spanish knights to muse,</l>
+            <l>That bruted was the fame:</l>
+            <l>How that no feast in twentie yeares,</l>
+            <l>Was iudged of such fame.</l>
+            <l>The noyse wherof the vulgar sort,</l>
+            <l>So worthylie displayes:</l>
+            <l>That vnto <hi>Violentas</hi> eares,</l>
+            <l>I blazd was the praise.</l>
+            <l>Who hearing that <hi>Didaco</hi> he,</l>
+            <l>Had falsifyed his vowes:</l>
+            <l>In that, against his othe, he tooke</l>
+            <l>Another dame to spouse.</l>
+            <l>With scratching nayles shée rent her haire,</l>
+            <l>And braue attaire defac'te:</l>
+            <l>And in her closet all alone:</l>
+            <l>Into this complaint shée braste,</l>
+            <l>O wretched girle what fate hath wrought,</l>
+            <l>These plunging panges of thine?</l>
+            <l>What starre at thy natiuitie:</l>
+            <l>So lucklessely did shine.</l>
+            <pb facs="tcp:176406:26"/>
+            <l>O rage of restles hellish thralles,</l>
+            <l>O stinge of endles smart:</l>
+            <l>O seas of thousand great annoyes,</l>
+            <l>That racke my wounded hart.</l>
+            <l>O cursed fates, why did you not,</l>
+            <l>Then execute your spite:</l>
+            <l>On this tormented corps of myne,</l>
+            <l>When first it came to light.</l>
+            <l>O wretched wight then hadst thou bene,</l>
+            <l>Ten thousand times iblest.</l>
+            <l>If thou hadst bene interd in mawe,</l>
+            <l>Of some deuouring beast.</l>
+            <l>Or if into the surging seas,</l>
+            <l>Thou hadst bene throwne at once:</l>
+            <l>Where monsters fell, with grating Iawes,</l>
+            <l>Might tire thy rotten bones.</l>
+            <l>Then shouldst thou not haue languisht thus,</l>
+            <l>In gulfes of treble payne:</l>
+            <l>Ne knowne the furie of such panges,</l>
+            <l>As now thou dost sustaine.</l>
+            <l>Accursed be that cursed houre,</l>
+            <l>wherin thy tender eyes:</l>
+            <l>At time of thy natiuitie,</l>
+            <l>Beheld the azurd skies.</l>
+            <l>O false <hi>Didaco</hi> periurd wight,</l>
+            <l>Did euer my desert:</l>
+            <l>Geue cause to alienate thy vowes,</l>
+            <l>Once plighted with thy hart.</l>
+            <pb facs="tcp:176406:27"/>
+            <l>O periurd Iason faithles man,</l>
+            <l>why hast thou thus deceau'd:</l>
+            <l>The wight that trusted thée so well,</l>
+            <l>And all her ioyes bereui'd.</l>
+            <l>Is this thy care of plighted faith?</l>
+            <l>Is this thy sacred vowe?</l>
+            <l>Is this the true performance, which</l>
+            <l>Thy promise doth ensue.</l>
+            <l>O haples hap and dolefull chaunce,</l>
+            <l>That euer thy tangling tonge:</l>
+            <l>Made breache into my Virginitie,</l>
+            <l>which I preseru'd so longe.</l>
+            <l>O caylife wretch, and can thine eyes,</l>
+            <l>Sustaine for to behold:</l>
+            <l>These raging panges and martirdome,</l>
+            <l>wherein I am enrold?</l>
+            <l>Is this the guerdon of the fayth,</l>
+            <l>which I haue vsde alway:</l>
+            <l>Now like a beast and reprobate,</l>
+            <l>Thus to be cast away?</l>
+            <l>Why did not Ioue consent, my line</l>
+            <l>More noble for to bee:</l>
+            <l>That I might worke a full reuenge,</l>
+            <l>Of this thy villanie?</l>
+            <l>But sith the heauens haue denyed,</l>
+            <l>Me (wretched girle) that fate:</l>
+            <l>With tooth and nayle, ile toyle to shake,</l>
+            <l>The ground of thine estate.</l>
+            <pb facs="tcp:176406:27"/>
+            <l>And that my grudging hart may still,</l>
+            <l>At thy successe rebell:</l>
+            <l>With mortall hate ile prosecute,</l>
+            <l>Thine odious ghost to hell.</l>
+            <l>Thus thundering out the raging flames,</l>
+            <l>That from her stomacke springe:</l>
+            <l>With howling shrikes and frensie plaints,</l>
+            <l>She makes the house to ringe,</l>
+            <l>Wherat her mother with her mayd,</l>
+            <l>Hight Iamque by name:</l>
+            <l>And eke her sonne, for to appease,</l>
+            <l>Her daughters fury came,</l>
+            <l>All they with holsome preceptes, toile</l>
+            <l>To qualifie her rage:</l>
+            <l>But all their witt had not the skill,</l>
+            <l>Her howling to asswage,</l>
+            <l>Whereat her mother with her sonne,</l>
+            <l>Away with teares are gone:</l>
+            <l>And leaue her pencing forth her plaints,</l>
+            <l>To Iamque alone.</l>
+            <l>The mayd with sundry reasons séekes,</l>
+            <l>Her mistres to entreate:</l>
+            <l>To quench at last the smothering smoke,</l>
+            <l>Of that turmoyling heate.</l>
+            <l>Deere dame (she sayd) why doth disdaine,</l>
+            <l>Thus boyle within your brest:</l>
+            <l>Or why doth rancor ransacke thus,</l>
+            <l>Your mynd from setled rest,</l>
+            <pb facs="tcp:176406:28"/>
+            <l>Why raunge you thus in rage, wherin</l>
+            <l>Nought else but griefe ye finde?</l>
+            <l>Repr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sse these furious fits and calme,</l>
+            <l>This tempest of your minde.</l>
+            <l>Know this you haue not first bene trapt,</l>
+            <l>In mens alluring net:</l>
+            <l>Ne shall you be the last perdie,</l>
+            <l>That shalbe tangled yet.</l>
+            <l>Did not periurd Demophoon,</l>
+            <l>Leaue <hi>Phillis</hi> on the strand:</l>
+            <l>When secretely by night embarke,</l>
+            <l>He launced from the land?</l>
+            <l>And <hi>Thesus, Aruidue</hi> bright,</l>
+            <l>Where he such loue did finde:</l>
+            <l>At last in desert <hi>Maxos</hi> Ile,</l>
+            <l>Left her poore girle behinde.</l>
+            <l>Why then turmoyle you thus your selfe,</l>
+            <l>In flouds of endles teares:</l>
+            <l>Sith he respecteth nought the panges,</l>
+            <l>That your vext conscience beares,</l>
+            <l>Be sure he forceth nought the griefes,</l>
+            <l>And horror that you féele:</l>
+            <l>But that which you set next your hart,</l>
+            <l>He setteth next his heele,</l>
+            <l>Therefore cease of those trickling feares,</l>
+            <l>which from your eyes distill:</l>
+            <l>And then referre your cause, vnto</l>
+            <l>The triall of my skill.</l>
+            <pb facs="tcp:176406:28"/>
+            <l>I hope or long so happely,</l>
+            <l>My traueyle to bestowe:</l>
+            <l>That you vpon his life may take,</l>
+            <l>Reuengement of your woe.</l>
+            <l>Meane time with pacience arme your selfe,</l>
+            <l>And ease your heauie hart:</l>
+            <l>While I meane while do put in proofe,</l>
+            <l>Some practise of myne Arte.</l>
+            <l>Dame <hi>Violenta,</hi> easde with this,</l>
+            <l>Discoursing of her mayde.</l>
+            <l>Swéete Iamque (quod she) if thou,</l>
+            <l>Can doe as thou hast sayde.</l>
+            <l>Twelue hundred Crownes of readie coyne.</l>
+            <l>Ile render to thine hand:</l>
+            <l>Whereby thou mayst conuay thy selfe,</l>
+            <l>Into some vnknowen land.</l>
+            <l>And neuer to returne againe,</l>
+            <l>Into thy natiue soyle,</l>
+            <l>But leaue me to sustayne theuent:</l>
+            <l>And hazard of the broyle.</l>
+            <l>Then mystres myne sayd she, attend</l>
+            <l>To that I shall recite:</l>
+            <l>Your chiefest charge is this: you must</l>
+            <l>A dolefull scroll endise.</l>
+            <l>Contayning such infernall panges,</l>
+            <l>And passions of the minde:</l>
+            <l>That you by meanes therof, no rest</l>
+            <l>Nor ease at all can finde.</l>
+            <pb facs="tcp:176406:29"/>
+            <l>Then next rip vp the poysoned sore,</l>
+            <l>Of that so stinging smart:</l>
+            <l>Which for th' excessiue loue of him,</l>
+            <l>Hath slaine your loyall harte.</l>
+            <l>Next adding that he might renue,</l>
+            <l>The cause of your delight:</l>
+            <l>If he sometimes will take the paynes,</l>
+            <l>To visite you by night.</l>
+            <l>As erste he vsed for to doe,</l>
+            <l>When this is done, procéede:</l>
+            <l>In such a methode as you knowe,</l>
+            <l>May best his fancie féede.</l>
+            <l>And when you haue displayde at large,</l>
+            <l>The meaning of your will:</l>
+            <l>Commit the charge thereof, to be</l>
+            <l>Directed by my skill,</l>
+            <l>I trow that force of fyled phrase,</l>
+            <l>His wittes shall so enchaunt:</l>
+            <l>That he with frée consent, sometime</l>
+            <l>To visite you, shall graunt.</l>
+            <l>And when he in the dead of night,</l>
+            <l>His soundest rest doth take:</l>
+            <l>We'le set him then in such a traunce,</l>
+            <l>That he shall neuer wake.</l>
+            <l>O gentle Iamque, sayd shée,</l>
+            <l>If thy deuise take place:</l>
+            <l>Then hast thou sure for euer wonne,</l>
+            <l>Poore <hi>Violentas</hi> grace.</l>
+            <pb facs="tcp:176406:29"/>
+            <l>This sayd, to frame her fayned lynes,</l>
+            <l>Her fiste she doth directe:</l>
+            <l>The stile whereof imported this,</l>
+            <l>Or else the like effecte.</l>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Seignieur Didaco,</hi> I am persuaded that if you will vouchsafe to peruse the tenure of these my la<g ref="char:EOLhyphen"/>mentable lines, you will be moued with some re<g ref="char:EOLhyphen"/>morse and compassion, in contemplation of the true image of my wretched life purtraied &amp; true<g ref="char:EOLhyphen"/>lie described in the same, which through your dis<g ref="char:EOLhyphen"/>loyaltie and breach of promise is consumed, and spent with so manie riuers of vncessant teares and lamentations, that many times I marueyle with my self that nature, amidst so many martirdomes, hath neuer yet had the force to separate that vni<g ref="char:EOLhyphen"/>tie which coupleth my soule vnto this turmoyled carcasse. Alas howe many thousand times a day haue I called for death, to abridge and interrupte the course of these myne vnhappie dayes. And yet she reclineth not vnto my crie? Alas howe many Millions of times euery day hath my tormented minde bene vanquished with the extremitie of this intollerable hell of vexations, expecting still the time when I may take mine <hi>Ʋltimum vale</hi> of all worldly delightes, being now arriued at the vt<g ref="char:EOLhyphen"/>termost panges of death. But what is this in com<g ref="char:EOLhyphen"/>parison of the horror that oppresseth my waue<g ref="char:EOLhyphen"/>uering minde when time requireth that I should
+<pb facs="tcp:176406:30"/> then take some rest. And recreation of my dayly traueyles, for if it chaunce that mine eyes fall a sleepe immediately my cogitations are surprised with dreadfull and horrible visions representing the perfect figure of her that enioyeth my place, which of all my other calamities is the sharpeste sword vnto my sorowfull soule. But oh me happy gi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le if I were able to dissolue the perfection of mine outragious loue toward thee, grounded vp<g ref="char:EOLhyphen"/>on the rocke of immoueable affection, wherby the remembrance of thy disloyaltie might be vtterly extinguished. And extirped from the secrete clo<g ref="char:EOLhyphen"/>set of my rauished mind then shuld thy trechery no more burthen my tormented conscience. But sith my desire is frustrate of effect, come hyther I say thou cruell &amp; hard harted man and with some signe of humanitie, mollifie the rage of my conti<g ref="char:EOLhyphen"/>nu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll calamities, the vewe whereof will represent vnto thine eyes the liuely pourtraiture of my rest<g ref="char:EOLhyphen"/>les agonies. And if euer sparke of pitie did warme thy frosen hart, arme thy selfe with greater cruel<g ref="char:EOLhyphen"/>tie then euer thou was wont to doe, and come hy<g ref="char:EOLhyphen"/>ther with speede to make her sobbe her last sighes whom thou most traiterously hast deceaued. For in doing otherwise thou maiest peraduenture to late, bewaile thy beastly crueltie, and the vntimely death of me poore desolate wretch, and miserable caytife.</p>
+                  <closer>
+                     <signed>Violenta.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:176406:30"/>
+            <l>This done, the brinish trickling teares of,</l>
+            <l>Distilled from her eye:</l>
+            <l>Write would she faine, but that the wordes,</l>
+            <l>Within her mouth did die.</l>
+            <l>And casting by the instrumentes,</l>
+            <l>That did this Engine frame,</l>
+            <l>With seale she signes it vp, and to</l>
+            <l>Her mayde she yeldes the same.</l>
+            <l>Holde Iamque she sayd and if,</l>
+            <l>Thou play thy part so fine:</l>
+            <l>As I in forging of these lines,</l>
+            <l>At large haue vttered myne.</l>
+            <l>I doubt not, but or long we shall.</l>
+            <l>Entrap the traytour so:</l>
+            <l>That he shall quite forget the meanes,</l>
+            <l>To worke poore maydens thrall.</l>
+            <l>Shée hauing once receyued the briefe,</l>
+            <l>With speede doth post away:</l>
+            <l>Vnto the palaice where she knewe,</l>
+            <l>The knight <hi>Didaco</hi> lay.</l>
+            <l>Where hauing once attaynd vnto,</l>
+            <l>The spéeche of him alone:</l>
+            <l>In this effect the traytorous bagge,</l>
+            <l>Her Iudas tale begonne,</l>
+            <l>
+               <hi>Seignieur Didaco:</hi> in mysteries,</l>
+            <l>Of learning I am mute:</l>
+            <l>But sure I am this signed briefe,</l>
+            <l>Importes some earnest sute.</l>
+            <pb facs="tcp:176406:31"/>
+            <l>For naught but drouping, all this day,</l>
+            <l>And griefe hath vexte my dame:</l>
+            <l>And eke amidst a thousand sighes,</l>
+            <l>She did this letter frame.</l>
+            <l>And sure to say the truth, you séeme,</l>
+            <l>To offer her great wrong:</l>
+            <l>Because that from her house, you doe</l>
+            <l>Absent your selfe so long.</l>
+            <l>As for your breach of Mariage,</l>
+            <l>At that she naught repines:</l>
+            <l>And reason to, if that she waye,</l>
+            <l>The difference of your lines:</l>
+            <l>But this one pange aboue the rest,</l>
+            <l>Doth aggrauate her woe:</l>
+            <l>Because you see her not sometimes,</l>
+            <l>As erst you vsde to doe.</l>
+            <l>God wotte, she sillie soule would thinke,</l>
+            <l>Her selfe of Ioue most blest:</l>
+            <l>If that some nightes she might obtaine,</l>
+            <l>By your sweete side to rest.</l>
+            <l>And by that meanes, the second place</l>
+            <l>Of your loue to possesse:</l>
+            <l>If this she had, then easde she were,</l>
+            <l>Of this so great distresse.</l>
+            <l>And sure sir Knight you may do well,</l>
+            <l>Your fancie for to bend:</l>
+            <l>In séeing her sometimes, vnto</l>
+            <l>Her sute to condescend.</l>
+            <pb facs="tcp:176406:31"/>
+            <l>So may you iustly vaunt that you,</l>
+            <l>As braue a spouse retayne:</l>
+            <l>And eke as faire a paragon,</l>
+            <l>As any liues in Spayne.</l>
+            <l>This said, she renders vp the briefe,</l>
+            <l>Vnto <hi>Didacoes</hi> hand:</l>
+            <l>Who, when with christall rowling eye,</l>
+            <l>Th'effect thereof had scand.</l>
+            <l>His dumpish mynd was for a space,</l>
+            <l>with wauering fancies led:</l>
+            <l>For loue, and hate with motions straunge,</l>
+            <l>Did combate in his head,</l>
+            <l>At last he sayd: deéere Iamque,</l>
+            <l>Thy mistres certifye:</l>
+            <l>That time permits me not as now,</l>
+            <l>To frame a new replye.</l>
+            <l>But that Ile visite her before,</l>
+            <l>The rysing of the sonne:</l>
+            <l>To morow morne, and there discourse,</l>
+            <l>The summe of that is donne.</l>
+            <l>She glad, with fayned reuerence,</l>
+            <l>Premisd away doth trotte:</l>
+            <l>And, till she was within the doores,</l>
+            <l>To runne she ceaseth not.</l>
+            <l>Where to her dame the order of,</l>
+            <l>Her toile she doth display:</l>
+            <l>And how <hi>Didaco</hi> would be there,</l>
+            <l>The next ensuing day.</l>
+            <pb facs="tcp:176406:32"/>
+            <l>Her mystres hearing this discourse,</l>
+            <l>Her sorowes all were gone;</l>
+            <l>And hard embracing Iamque,</l>
+            <l>This wise replyed anone.</l>
+            <l>Sweete wench if thou hast framd the grynne,</l>
+            <l>This traytour to begyle:</l>
+            <l>Be sure of this, that for my part,</l>
+            <l>I haue not slept the while.</l>
+            <l>But after sundry thoughtes, I haue</l>
+            <l>Deuisde this pretie fetche,</l>
+            <l>To execute our brochery,</l>
+            <l>On this false periurd wretch,</l>
+            <l>Thy chiefest charge is this: thou must</l>
+            <l>A mightie rope prepare:</l>
+            <l>Wherwith, when fast he is a sléepe,</l>
+            <l>We may this traytor snare.</l>
+            <l>Next that two monstrous chopping kniues,</l>
+            <l>Must for this feate be bought:</l>
+            <l>Although the price be neuer so great,</l>
+            <l>Yet spare thou not for ought.</l>
+            <l>That done let me my selfe alone:</l>
+            <l>Our practize to fulfill:</l>
+            <l>Thou maist referre that knacke,</l>
+            <l>To tryall of my skill.</l>
+            <l>I trow that or he passe from hence,</l>
+            <l>Ile charme my youth so well:</l>
+            <l>That he, who vsde him in such sort,</l>
+            <l>Shall neuer haue time to dwell.</l>
+            <pb facs="tcp:176406:32"/>
+            <l>The cursed wench, to ready bent,</l>
+            <l>To doe as she decréed:</l>
+            <l>For slowes no time but doth prepare.</l>
+            <l>The instrumentes with speede.</l>
+            <l>The time drue on when he poore man,</l>
+            <l>To Iamque did say:</l>
+            <l>That he his former wife would sée,</l>
+            <l>Before the breake of day.</l>
+            <l>And so what time the clocke stroke foure,</l>
+            <l>His seruaunt he doth wake:</l>
+            <l>Two Spanish Iennets of the best,</l>
+            <l>For iourney prest to make.</l>
+            <l>And mounted on their coursers braue,</l>
+            <l>In shade of vgly night:</l>
+            <l>Euen at the turning of the stréete,</l>
+            <l>
+               <hi>Didaco</hi> doth alight.</l>
+            <l>And to his man commits his horse,</l>
+            <l>Commaunding him to ryde:</l>
+            <l>Into the countrie, where he should,</l>
+            <l>Vntill the morowe abyde.</l>
+            <l>And then before that <hi>Phoebus</hi> lampe,</l>
+            <l>Displayed her wonted fire:</l>
+            <l>To him at <hi>Violentas</hi> house,</l>
+            <l>In hast he should retyre:</l>
+            <l>Meane time his Iennets to bestowe,</l>
+            <l>Within some secrete Inne:</l>
+            <l>For none might know how he that while,</l>
+            <l>Had with his louer bin.</l>
+            <pb facs="tcp:176406:33"/>
+            <l>This sayd he marcht with speedie pace,</l>
+            <l>Vnto his former wife:</l>
+            <l>Preparing syllie soule, his throte,</l>
+            <l>Vnto the hangmans knife.</l>
+            <l>And knocking softly at the gate,</l>
+            <l>Where Iamque did waite:</l>
+            <l>She into her mystres closet doth,</l>
+            <l>Conuay <hi>Didaco</hi> straight.</l>
+            <l>The knight, who ere his comming, had</l>
+            <l>A fine excuse prepard:</l>
+            <l>Doth greete her with a friendly kisse.</l>
+            <l>Enquiring how she feard.</l>
+            <l>
+               <hi>Didaco,</hi> you in word<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (quod she)</l>
+            <l>Seeme carefull for my state:</l>
+            <l>Although your stomacke inwardly.</l>
+            <l>Repineth at my fate.</l>
+            <l>I trowe your giltie conscience,</l>
+            <l>Will testifie the payne:</l>
+            <l>Which I poore girle vncessantly,</l>
+            <l>Both day and night sustayne.</l>
+            <l>The furie of which martirdome,</l>
+            <l>Hath brought my soule so lowe:</l>
+            <l>That still I looke when as the breath,</l>
+            <l>My carcasse will forgoe.</l>
+            <l>And yet the letter which I sent,</l>
+            <l>I wrote not to this ende:</l>
+            <l>In hope it would your stonie hart,</l>
+            <l>To rue mine anguishe bend.</l>
+            <pb facs="tcp:176406:33"/>
+            <l>For sure I am you will not cease,</l>
+            <l>To worke their endles thrall:</l>
+            <l>Which to these glosing words of yours,</l>
+            <l>To credence geue at all.</l>
+            <l>Wherof I wretched wench, at first</l>
+            <l>Vnwitting of your trade:</l>
+            <l>Of this your trecherous villany,</l>
+            <l>To plaine a proofe haue made.</l>
+            <l>He fearing, least her boyling rage,</l>
+            <l>Would more and more enflame:</l>
+            <l>With often kissing of her chéeke,</l>
+            <l>This forg'd reply doth frame.</l>
+            <l>Madame why doubt you of my faith?</l>
+            <l>My match was but pretended:</l>
+            <l>For willingly vnto the same,</l>
+            <l>I neuer condescended.</l>
+            <l>And though I was enforste to take,</l>
+            <l>Another to my wife:</l>
+            <l>Yet sure or long, ile cut in twayne,</l>
+            <l>The fillet of her lyfe.</l>
+            <l>And when my practize once hath wrought,</l>
+            <l>Her cursed finall end:</l>
+            <l>The remnant of my vitall race,</l>
+            <l>with thée (my deare) ile spend.</l>
+            <l>And then in tearme of further time.</l>
+            <l>It plainely shall appeare:</l>
+            <l>How that <hi>Didaco</hi> is the knight,</l>
+            <l>That holdes thy loue most deare.</l>
+            <pb facs="tcp:176406:34"/>
+            <l>Thus chaunting on the pleasant cordes,</l>
+            <l>Of this his tangling tonge:</l>
+            <l>With filed phrase he seekes to frame,</l>
+            <l>Excuse for former wronge.</l>
+            <l>Shée loth to loose the benefite,</l>
+            <l>Of this so fit a time:</l>
+            <l>Doth seeme to hold the knight excusde,</l>
+            <l>For that pretended crime.</l>
+            <l>And with a forced smiling face,</l>
+            <l>(But with a Iudas brest.)</l>
+            <l>In this effect vnto the knight,</l>
+            <l>Her aunswere she addrest.</l>
+            <l>
+               <hi>Didaco,</hi> I am content this once,</l>
+            <l>To thinke your aunsweres iust:</l>
+            <l>Although your déedes haue geuen me cause,</l>
+            <l>Your sayings to instrust,</l>
+            <l>But sure your loue so rooted is,</l>
+            <l>Within my burning hart:</l>
+            <l>That néedes the crime must heynous be,</l>
+            <l>That may the same auert:</l>
+            <l>Therfore I will constrayne my selfe,</l>
+            <l>To thinke your saying true:</l>
+            <l>If you to visite me sometimes,</l>
+            <l>By night, will plight your vowe.</l>
+            <l>For if at certaine times I might,</l>
+            <l>Your companie enioye:</l>
+            <l>Than would I thinke my selfe iblest,</l>
+            <l>And frée from all annoye.</l>
+            <pb facs="tcp:176406:34"/>
+            <l>He sillie man, right glad to sée,</l>
+            <l>Her furie to represte:</l>
+            <l>With sacred vowe and plighted faith,</l>
+            <l>Accorded to her heste.</l>
+            <l>Thus while they both no truth at all,</l>
+            <l>But déepe dissembling ment:</l>
+            <l>Darke <hi>Nox</hi> with mantle black approchte,</l>
+            <l>And <hi>Phoebus</hi> race was spent,</l>
+            <l>And while the remnant of the night,</l>
+            <l>with spéedie passage flyes:</l>
+            <l>At last god <hi>Morpheus</hi> charmes attachte,</l>
+            <l>
+               <hi>Didacoes</hi> drousy eyes,</l>
+            <l>That able scarce to keepe a wake,</l>
+            <l>His weary drouping head:</l>
+            <l>With <hi>Violenta</hi> croucheth downe:</l>
+            <l>Within his fatall bed.</l>
+            <l>Then Iamque rakes vp the fire,</l>
+            <l>And takes the light away:</l>
+            <l>And softly from the bed, she doth</l>
+            <l>
+               <hi>Didacoes</hi> sword conuaye.</l>
+            <l>Next that the cursed trayterous bitch,</l>
+            <l>Beneath the bed doth grope:</l>
+            <l>(As though she somwhat had to doe,)</l>
+            <l>And maketh fast the rope:</l>
+            <l>And marching to the chamber doore,</l>
+            <l>To goe her way doth fayne:</l>
+            <l>But hauing hard the same full fast,</l>
+            <l>Returneth in againe,</l>
+            <pb facs="tcp:176406:35"/>
+            <l>And so when <hi>Somnus</hi> deadly charmes,</l>
+            <l>Had all his vaines possest:</l>
+            <l>And throughly drencht his heauy limmes,</l>
+            <l>In gulfe of careles rest.</l>
+            <l>Precisely Iamque besturres,</l>
+            <l>her selfe in shade of night:</l>
+            <l>And into <hi>Violentas</hi> handes,</l>
+            <l>Directs the rope aright.</l>
+            <l>Who when shée had with nimble fyst,</l>
+            <l>bestowde the same full fast:</l>
+            <l>The end againe crosse thwart the bed,</l>
+            <l>To Iamque shee cast.</l>
+            <l>Who foulding it about her armes,</l>
+            <l>With bum flat clapt on floore:</l>
+            <l>Hoystes vp her féete against the bed,</l>
+            <l>To pull when he should sturre.</l>
+            <l>This done, her mystres takes in hand,</l>
+            <l>Her fatall caruing blade:</l>
+            <l>And searching secretely, wheras</l>
+            <l>Th'assalt might soonste be made.</l>
+            <l>Forthwith his tender throte with knife,</l>
+            <l>So fiercely she doth pricke:</l>
+            <l>That glyding thorow, the poynt therof</l>
+            <l>Did in the pillowe sticke.</l>
+            <l>He syllie soule when first he felt,</l>
+            <l>The cursed stroke she strake:</l>
+            <l>With frustrate hands poore man he striues,</l>
+            <l>Resistance for to make.</l>
+            <pb facs="tcp:176406:35"/>
+            <l>Wherwith the deadly snaring rope,</l>
+            <l>His wittes did so appall:</l>
+            <l>That hand or foote to saue himselfe,</l>
+            <l>He could not stirre at all.</l>
+            <l>And féeling efte a second charge,</l>
+            <l>His naked throte vpon:</l>
+            <l>Both strength to striue, and speach to speake,</l>
+            <l>Were quite bereft and gone.</l>
+            <l>Shee like a vile <hi>Medea</hi> fell,</l>
+            <l>Her deuelish rage prouokes:</l>
+            <l>And on his wretched rented corps,</l>
+            <l>Redoubleth still her strokes.</l>
+            <l>So long with dent of trenching blade,</l>
+            <l>His martird limmes she tyred:</l>
+            <l>Tyll that his senceles corps at last,</l>
+            <l>The grudging ghost expyred.</l>
+            <l>Nowe, Iamque my girle, quod shée,</l>
+            <l>With speede prepare a light:</l>
+            <l>So shall we quickly see if that,</l>
+            <l>This feare be wrought aright.</l>
+            <l>Where hauing vewde with firie lookes,</l>
+            <l>His breathles corps at full:</l>
+            <l>The closed eyes from forth his head,</l>
+            <l>With scortching knife doth pull.</l>
+            <l>And hauing throughly launc'te the same,</l>
+            <l>With many a griesely gashe:</l>
+            <l>At last with choler hotte enflamd,</l>
+            <l>Her venome forth doth flashe.</l>
+            <pb facs="tcp:176406:36"/>
+            <l>Resigne you trayterous lampes, I say,</l>
+            <l>The fort you erst possest:</l>
+            <l>Come forth for aye, come forth: for there</l>
+            <l>You shall no longer rest.</l>
+            <l>Come forth from this your shameles siege,</l>
+            <l>Where you so long did byde:</l>
+            <l>For nowe your fount of fayned teares,</l>
+            <l>Is cleane exhaust and dride.</l>
+            <l>Then haling forth his senceles tongue,</l>
+            <l>With force of murtherous hand:</l>
+            <l>When she with many a monstrous slashe,</l>
+            <l>The forme thereof had scand.</l>
+            <l>O tickling tangling, tongue quod she,</l>
+            <l>That vtteredst nought at all:</l>
+            <l>But déepe deceyt in cloake of loue,</l>
+            <l>And hony mixst with gall.</l>
+            <l>How long didst thou turmoyle in vayne,</l>
+            <l>With this thy cannon shotte:</l>
+            <l>Or that of my Virginitie,</l>
+            <l>Thou hadst the conquest gotte.</l>
+            <l>Whereof depriued by thy meanes,</l>
+            <l>Ile hasten eke to death:</l>
+            <l>For hauing lost that precious gemme,</l>
+            <l>Nought profits vitall breath.</l>
+            <l>Then launching in a violent hole,</l>
+            <l>Into his swelling brest:</l>
+            <l>With tygers nayles she rents the hart,</l>
+            <l>From where it erst did rest.</l>
+            <pb facs="tcp:176406:36"/>
+            <l>And hauing caru'd the same at large.</l>
+            <l>With dent of launcing blade:</l>
+            <l>With thundering checkes against the same,</l>
+            <l>Her inuectiue she made.</l>
+            <l>O hart more hard then Adamant,</l>
+            <l>Whose Anduill did prepare:</l>
+            <l>The trapping toyles and gaging grynnes,</l>
+            <l>Which me poore girle did snare.</l>
+            <l>Why could I not thy former thoughtes,</l>
+            <l>So perfectly descrie:</l>
+            <l>As thy materiall substance now,</l>
+            <l>I vewe with perfect eye.</l>
+            <l>Then had I not poore wretch (alas)</l>
+            <l>In these thy trappes bene tane:</l>
+            <l>Ne had thy ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tery brued the bale,</l>
+            <l>Of my vnhappy bane.</l>
+            <l>This said she bathes her deuelish nayles,</l>
+            <l>within his blood a freshe:</l>
+            <l>And cuts her curst anatomy,</l>
+            <l>Vpon his mangled-fleshe.</l>
+            <l>Then he wing all his other partes,</l>
+            <l>So long shee wreakes her teene:</l>
+            <l>That no one place in all his limmes,</l>
+            <l>Deuoyd of scarres was seene.</l>
+            <l>Now Ianique my déere she sayd,</l>
+            <l>This taske doth yet remayne:</l>
+            <l>That we this monstrous mangled beast,</l>
+            <l>Vnto the windowe traine.</l>
+            <pb facs="tcp:176406:37"/>
+            <l>For as by meanes of his deceyt,</l>
+            <l>My shame abroade is blowen:</l>
+            <l>So will I eke that this reuenge.</l>
+            <l>Should openly be knowen.</l>
+            <l>This sayd, they both the martird corps,</l>
+            <l>Vnto the windowe drewe:</l>
+            <l>And then with violent hands the same,</l>
+            <l>Vpon the pauement threwe.</l>
+            <l>Now take this golde my girle she sayd,</l>
+            <l>In guerdon of thy payne:</l>
+            <l>And spéede thee hence into Africa,</l>
+            <l>And neuer come againe.</l>
+            <l>The mayde with teares doth take her leaue,</l>
+            <l>And purposde so to doe:</l>
+            <l>Long time before, although her dame,</l>
+            <l>Had not aduisde her so.</l>
+            <l>Which done this boocher frames her selfe,</l>
+            <l>Some quiet sléepe to take:</l>
+            <l>Because all night to worke her feate,</l>
+            <l>Shée tooke such paynes to wake.</l>
+            <l>O monstrous hellish hagge, that forth</l>
+            <l>From <hi>Plutoes</hi> kingdome brake:</l>
+            <l>O hydeous hissing <hi>Hydra</hi> buge,</l>
+            <l>That lurkes in <hi>Lerna</hi> lake.</l>
+            <l>O bitch for sprong of serpents séede,</l>
+            <l>And not of humayne stocke:</l>
+            <l>But sosterd vp in desert groues,</l>
+            <l>Within some holowe rocke:</l>
+            <pb facs="tcp:176406:37"/>
+            <l>Where fostered thou waste with milke;</l>
+            <l>From ramping tygers dugge:</l>
+            <l>Which thou amongst the craggy cliffes,</l>
+            <l>With sauage chappes didst tugge.</l>
+            <l>The raging senceles Lions brode,</l>
+            <l>Within themselues agree:</l>
+            <l>Detesting all against their makes,</l>
+            <l>Iniurious for to bée.</l>
+            <l>But thou deriu'd of humayne race,</l>
+            <l>Endued with reason to:</l>
+            <l>Aduenturest vpon such factes,</l>
+            <l>As they abhorre to doe.</l>
+            <l>O curtall curst, of woman kind,</l>
+            <l>Vnworthy of the name:</l>
+            <l>But aye for to be bayted at,</l>
+            <l>With trumpe of blacke defame.</l>
+            <l>You Ladies all whose weeping eyes,</l>
+            <l>This hystorie peruse:</l>
+            <l>At rarenes of this monstrous fact,</l>
+            <l>No marueyle though ye muse.</l>
+            <l>But as the splendant blasing lampe,</l>
+            <l>Doth neuer burne so bright:</l>
+            <l>As when a darkesome shade doth séeme,</l>
+            <l>For to eclipse his ligh.</l>
+            <l>So you, déere dames whose vertuous minds,</l>
+            <l>Abandon all such wayes:</l>
+            <l>By contrarie of this foule facte,</l>
+            <l>Deserue immortal prayse.</l>
+            <pb facs="tcp:176406:38"/>
+            <l>But now this charge at last remaynes,</l>
+            <l>To prosecute the acte:</l>
+            <l>Although my mazed mynd abhorres,</l>
+            <l>So thinke vpon the facte.</l>
+            <l>No sooner had the day appéered,</l>
+            <l>And <hi>Phoebus</hi> showne his head:</l>
+            <l>But that this monstrous murther straight,</l>
+            <l>Through all the towne was spred.</l>
+            <l>That great concourse from euery where,</l>
+            <l>Resorted to the place:</l>
+            <l>In mightie companies, to scanne,</l>
+            <l>The strangenes of the case.</l>
+            <l>But yet the sillie martirs face,</l>
+            <l>And limmes were mangled so,</l>
+            <l>That though the multitude were great,</l>
+            <l>Not one the man did know.</l>
+            <l>Some iudgde there had a fray bene made,</l>
+            <l>And so the partie slaine:</l>
+            <l>Some this, some that, but none of all,</l>
+            <l>Could to the truth attaine.</l>
+            <l>She leaning all this while alone,</l>
+            <l>And vewing of the thronge:</l>
+            <l>At last with manly courage mou'd,</l>
+            <l>She steppes the preafe among.</l>
+            <l>My maisters all (quod she) you seeme,</l>
+            <l>To diuersly to scanne:</l>
+            <l>With iudgements contrary, the case</l>
+            <l>Concerne this sayd man.</l>
+            <pb facs="tcp:176406:38"/>
+            <l>And yet scarce two are of one mynde,</l>
+            <l>For some say <hi>that</hi> some <hi>this.</hi>
+            </l>
+            <l>And eche man thinkes his verdite best,</l>
+            <l>But all the marke do misse.</l>
+            <l>The meaning of this mystery,</l>
+            <l>By me must be reuealed:</l>
+            <l>Which else (no doubt) in couert wise,</l>
+            <l>Long time would lie concealed,</l>
+            <l>Therefore your listening eares I say,</l>
+            <l>Vnto my words apply:</l>
+            <l>This is the Lord <hi>Didaco</hi> he,</l>
+            <l>That slaine on grounde doth lye.</l>
+            <l>But first because it is requisite,</l>
+            <l>His friends the case should know,</l>
+            <l>Let them be straight accited, then</l>
+            <l>Th'effect of all ile showe.</l>
+            <l>Whereon <hi>Didacos</hi> kinsfolkes all,</l>
+            <l>Were somoned to the place:</l>
+            <l>In presence of the Iudge, so heare</l>
+            <l>The scanning of the ease:</l>
+            <l>Which done, this hellish <hi>Hydra</hi> forth,</l>
+            <l>Was led the stréetes throughout:</l>
+            <l>Vnto the iudgement hall, which their</l>
+            <l>Was pestered with the rout.</l>
+            <l>Where with a quiet countenance,</l>
+            <l>And conscience voyde of grudge:</l>
+            <l>She frames her loathsome long discourse,</l>
+            <l>In hearing of the iudge.</l>
+            <pb facs="tcp:176406:39"/>
+            <l>Howe that the knight long fiftéene monethes,</l>
+            <l>Had languisht styll in loue:</l>
+            <l>And neuer any rest attaynd,</l>
+            <l>His panges for to remoue.</l>
+            <l>But lingring long, and not of force,</l>
+            <l>His fancie to represse:</l>
+            <l>That euery day with thousand thoughts,</l>
+            <l>Augmented his distresse.</l>
+            <l>In fine resolu'd, what way he might,</l>
+            <l>His hotte consumption cure:</l>
+            <l>By sacred solemne nuptiall bands,</l>
+            <l>He wanne me to his lure.</l>
+            <l>But hauing falsifyed at last,</l>
+            <l>His former plighted vowes:</l>
+            <l>He cast me of and chose eftsone,</l>
+            <l>Another Dame to spouse.</l>
+            <l>Therefore because my fame by him,</l>
+            <l>Into the lapse was brought:</l>
+            <l>With helpe of Ianique my mayde,</l>
+            <l>This due reuenge I wrought.</l>
+            <l>Wherefore pronounce your righteous doome,</l>
+            <l>Of death vpon my acte:</l>
+            <l>Or else these hands of myne shall take,</l>
+            <l>Reuengement of the facte.</l>
+            <l>This sayd, she ceasde, with gréedie eyes,</l>
+            <l>Vpon the iudges bent:</l>
+            <l>Who with distilling teares amayne,</l>
+            <l>The heauie hap lament.</l>
+            <pb facs="tcp:176406:39"/>
+            <l>And after due enquirie made,</l>
+            <l>The case so playne did lye:</l>
+            <l>That forc'te they were by righteous doome,</l>
+            <l>To iudge this hagge to die.</l>
+            <l>From whence she was vnto the place,</l>
+            <l>Of execution led:</l>
+            <l>Where with the stroke of fatall blade,</l>
+            <l>Shee lost her cursed bead.</l>
+            <l>And nowe this dolefull Tragedy,</l>
+            <l>To end, my muse decreed:</l>
+            <l>Inough to make a stonie hart:</l>
+            <l>With brackish teares to bléede.</l>
+            <l>Loe here you amorous knightes a glasse,</l>
+            <l>Wherein you plaine may vewe,</l>
+            <l>The future fate and last euent:</l>
+            <l>That louers liues ensue,</l>
+            <l>Why then enforce you not your selues.</l>
+            <l>Such humors to represse:</l>
+            <l>And to preuent by reasons lore,</l>
+            <l>The cause of your distresse.</l>
+            <l>With brydle of discretion séeke,</l>
+            <l>This fire for to allay:</l>
+            <l>That <hi>Phoebe</hi> may possesse the fort,</l>
+            <l>Where <hi>Venus</hi> bare the swaye.</l>
+            <l>Consider this, if wisedomes bit,</l>
+            <l>You desperately let fall:</l>
+            <l>You hazard rashely on the rocke,</l>
+            <l>Of euerlasting thrall.</l>
+            <pb facs="tcp:176406:40"/>
+            <l>Or else if long pursute, with teares,</l>
+            <l>Your remedie procure:</l>
+            <l>Yet commonly those wished ioyes,</l>
+            <l>Do neuer long endure.</l>
+            <p>The somme of both is this</p>
+            <l>Hay glad or sad, hap weale or woe,</l>
+            <l>Hap hoped ioy, or payne:</l>
+            <l>Yet both in this one issue end,</l>
+            <l>
+               <hi>In loue nought is but vayne,</hi>
+            </l>
+            <trailer>FINIS.</trailer>
+            <byline>({quod}) Thomas Achelley.</byline>
+            <pb facs="tcp:176406:40"/>
+         </div>
+      </body>
+   </text>
+</TEI>
